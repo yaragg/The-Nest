@@ -2,8 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/eilhart1.rpy", line 298: else clause expects a non-empty block.
-    else:
-         ^
+File "game/eilhart1.rpy", line 491: end of line expected.
+    e "Good luck, Luna. And do watch your back, I'd really rather not be left alone with the rest of our "esteemed colleagues"."
+                                                                                                          ^
 
 Ren'Py Version: Ren'Py 6.99.10.1227

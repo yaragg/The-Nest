@@ -1,0 +1,19 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/eilhart1.rpy", line 511, in script
+ScriptError: could not find label 'meet_nikolai'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/eilhart1.rpy", line 511, in script
+  File "C:\Users\Yara\Downloads\renpy-6.99.8-sdk\renpy\ast.py", line 1520, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\Yara\Downloads\renpy-6.99.8-sdk\renpy\script.py", line 843, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'meet_nikolai'.
+
+Windows-8-6.2.9200
+Ren'Py 6.99.10.1227
+The Nest 0.0

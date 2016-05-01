@@ -290,11 +290,223 @@ label eilhart_question:
 
     l "(Is this... A curse? A powerful one, too... What's going on here?)"
 
-    # if threatenedToBringDownCouncil and eilhartAffinity <= 0:
+    if threatenedToBringDownCouncil and eilhartAffinity < 0:
+        "The door opens discreetly as Serach comes back and stands quietly inside."
 
-    #     "The door opens discreetly as Serach comes back and stands quietly inside."
+        l "(There's something off here. Eilhart looks tense... I don't like it. Maybe I shouldn't linger here.)"
+        menu:
+            "\"I didn't know you had a son.\" (Stay.)":
+                jump serach_kills_luna
 
-    #     l "(There's something off here. Eilhart looks tense... I don't like it. Maybe I shouldn't linger here.)"
-    # else:
+            "\"Uh... I'll be going.\" (Leave.)":
+                l "Uh... I'll be going. See you at work."
+                l "(Why do I feel like I'm running?)"
+                jump meet_nikolai
+    else:
+        e "You were leaving?"
 
+        menu:
+            "\"Was.\" (Stay.)":
+                l "Was."
+
+                l "(But now I have some questions for you.)"
+
+                l "I wasn't aware you had a son... not that I've ever delved into your personal life. He seems rather... under the weather. I don't suppose there's a reason for that, is there?"
+
+                e "Well, yes, people not being aware of it was kind of the point."
+
+                e "Children get colds. Which is why I wanted him in bed, not wandering around."
+
+                l "(Really now.)"
+
+                menu:
+                    "\"Alright. I'll see you at work then.\" (Leave.)" :
+                        l "(If he doesn't want to tell me, there's nothing I can do.)"
+                        l "Alright. I'll see you at work then."
+                        jump meet_nikolai
+
+                    "\"Come on, I told you my secret.\"" if toldEilhartAboutDmitri == True:
+                        l "Come on, I told you my secret."
+                        e "...I guess you did."
+                        jump eilhart_story
+
+                    "\"How about a deal?\"" if toldEilhartAboutDmitri == False:
+                        l "I'm not a sell out, Eilhart, you know that. Neither is my grandfather. Rather, he's feared this the whole time he's been on council."
+
+                        l "I'm not saying we can save anyone... hell, I'm not even saying we can change it. But we can try, right? So I'll make you a deal."
+
+                        l "You tell me what's up with him..."
+
+                        l "And I'll tell you what I'm looking for, or who asked me to dig."
+                        jump eilhart_story
+
+            "\"Uhm... Yes.\" (Leave.)":
+                l "Uhm...  Yes. See you later."
+                jump meet_nikolai
+
+        
+
+    return
+
+
+label serach_kills_luna:
+    l "I wasn't aware you had a son... not that I've ever delved into your personal life. He seems rather... under the weather. I don't suppose there's a reason for that, is there?"
+
+    e "(amused)\nMaybe, maybe not."
+
+    "Eilhart suddenly becomes serious."
+
+    e "Honestly, you don't really expect me to tell you, do you? Right after you threatened to bring down the same Council I happen to be part of?"
+
+    l "(I have a really bad feeling--)"
+
+    "There is movement behind Luna and something unseen traps her in a headlock."
+
+    l "Ahh! Get--off--"
+
+    "Luna lashes out with sharp shadow tendrils, but the strong arms around her neck keep choking her."
+
+    l "(Impossible! How are they still standing?! How--)"
+
+    "Light glints off the arms choking her. Underneath torn skin, there is only metal..."
+
+    l "(An automaton?!)"
+
+    l "Eilha--"
+
+    e "Do it, Serach."
+
+    l "Serach? Divines. His apprentice is an aut--"
+
+    with tintred
+    $ renpy.pause(0.5)
+
+    "Serach snaps her neck. Luna goes limp in his arms."
+
+    "Eilhart's shoulders slump. He suddenly looks so very old and tired."
+
+    # scene black
+    # with Fade(0.1, 0.5, 0.5, color="#000")
+
+    e "I don't disagree with you, Luna. The Council is rotten. Bringing it down would be a favor to everyone..."
+
+    e "But I can't let someone who doesn't know how to hide her cards leave knowing about my family."
+
+    e "I'm so, so sorry."
+
+    e "Come, Serach. Let's hide her with the others..."
+
+    $ renpy.pause(0.5)
+    show text "Ending 1 / %d" % (numEndings) with dissolve
+
+    $ renpy.pause()
+
+    hide text with dissolve
+
+    return
+
+
+
+
+
+label eilhart_story:
+    $ heardEilhartStory = True
+
+    "Eilhart is silent for a long time."
+
+    l "(He's really thinking it through, isn't he? This has to be something big...)"
+
+    e "It was years ago. Back then, I didn't have the faintest how magic worked and I honestly didn't care. I just worked here and I was happy with it. It's been my family's business for as long as any of us can remember."
+
+    l "(He looks wistful... Better days, I take it.)"
+
+    e "There was some High Mage who was under investigation by the council. He was under fire for a great count of murders."
+
+    l "(Murder? Years ago... I think Grandfather mentioned it. Was it Korone?)"
+
+    e "When the investigation started closing in, he panicked and fled... He came into the city, and into our shop, and demanded that we hide him from the Guild or else he would kill us."
+
+    e "We spent about three weeks like that. Then our food ran out, and he gave me permission to leave and go buy supplies. I had no intention of risking my family, but my wife... She was always so honest, so scrupulous."
+    "Eilhart smiles sadly."
+    e "While he wasn't listening, she insisted that I tell the Guild. So when I left, I went and warned them... They didn't really believe me, so they only sent a few mages back with me."
+
+    l "They didn't send any High Mages? That's ridiculous. Even if they didn't believe you, they should have played it safe anyway."
+
+    e "He killed them so easily. Then he turned on us... He cursed us. But I wasn't affected... You could say that was how I discovered my gift for magic."
+
+    e "He didn't expect it. While he was still recovering, I put that thing over there..."
+    "Eilhart motions towards a long, thin metal tool leaning against the wall."
+    e "Right through his heart."
+
+    e "But it wasn't enough to dispell the curse. I went to the Guild for help. I begged the Council to help find a cure... But do you think they did anything?"
+
+    e "No, they didn't want to admit one of their own did that. So that they could keep up appearances, they even threatened us to shut us up. I'm fairly sure if I hadn't changed my identity after that, I wouldn't even be here now."
+
+    l "I'm sorry... I had no idea."
+
+    e "Do you see now why I have some trouble believing you when you say not all High Mages are sell outs?"
+
+    l "I can't blame you."
+
+    e "Maybe if you had been there back then, things would have been different."
+
+    e "Or maybe you would have done nothing all the same, which makes you really no different from Lycioe or Victoria or any of them. 'Atoning' now won't make up for what not only me, but so many others have gone through."
+
+    e "In any case, I joined the Guild hoping I could gain enough influence to force them to dispell the curse..."
+
+    "Eilhart laughs wryly."
+    e "I must have set some kind of record for blazing through the ranks like that, I was so desperate. When time is your enemy, nothing else matters, you know?"
+
+    "His gaze falls."
+    e "But I still wasn't fast enough. By the time I got to my post, it was too late. The curse has progressed too far, there is... There is no annulling it now."
+
+    l "Eilhart..."
+
+    e "My wife has been bedridden for the past few months, she doesn't have much long left. Erik isn't far behind, as you just saw... And our little Emma hasn't woken up since that day. Even if she did wake up, what's left of her body to live in? I just..."
+
+    "Eilhart takes a deep breath, trying to calm himself."
+
+    e "Needless to say, that is far, far more than I've told any of our colleagues, so I would appreciate some discretion."
+
+    e "I went to insane lengths to keep my family's existence secret and keep them out of Council matters. So if you ever even think about threatening them or using them as leverage, I'm sticking that same tool through your heart too. Are we clear?"
+
+    l "(He doesn't even look like he's kidding.)"
+
+    e "Now tell me what it is you're looking for."
+
+    l "I'm looking for the evidence used against Nikolai. I had started when his integrity was called into question, but stopped after I was too late. Now I'm looking again to see if I can trace it back."
+
+    l "I want to know who framed him... and why. Nikolai didn't step on any toes that I was aware of. It doesn't add up."
+
+    e "Are you that sure he really was framed? He could have had a life you didn't know of... Like I have a son, and not one of our colleagues ever imagined that."
+
+    if toldEilhartAboutDmitri == True:
+        l "Dmitri himself told me. Sure, you could say he was lying... But why ask me to look into it at all if he was?"
+
+    else:
+        l "That's different. I didn't think he was a necromancer back then... And I still don't, even now."
+        l "(I can't really tell him Dmitri told me he was innocent...)"
+
+    e "Given my story, I should be glad you're investigating... But even if some of the evidence might have looked shady, I thought a lot of it seemed genuine."
+
+    e "If someone took it from our evidence vaults from previous cases, someone would have noticed, with all the noise surrounding the trial. Wouldn't only a real necromancer have access to the kind of equipment we found in his house?"
+
+    e "Unless... Are you suggesting the one who framed Nikolai was the real necromancer?"
+
+    l "The real necromancer perhaps, or someone who had access to alternate evidence. I don't really know, I haven't been able to dig that far."
+
+    e "Well, it looks like you're going to have your work cut out for you. No one is exactly going to confess to being a necromancer."
+
+    e "Good luck, Luna. And do watch your back, I'd really rather not be left alone with the rest of our \"esteemed colleagues\"."
+
+    l "(laughs)\nIndeed, the last thing you need is to be left to the hounds. I'll do my best to be careful."
+
+    l "(Well, this is a.... weird situation, to say the least. But now that we both have leverage against the other, it keeps both our secrets safe.)"
+
+    l "(Unless one of us can strike faster than the other, my investigation should be safe with him...)"
+
+    l "I'll see you at council then."
+
+    e "See you."
+    jump meet_nikolai
     return
