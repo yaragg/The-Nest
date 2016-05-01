@@ -1,0 +1,1772 @@
+EXT. LUNA'S STUDY - DAY
+
+Serach stands in front of the door and knocks, then slips a note underneath before Luna can answer.
+
+INT. LUNA'S STUDY - DAY
+
+Luna jumps in surprise and scrambles to hide the papers she's reading.
+
+LUNA
+Come in.
+
+But there is only silence except for the rustle of paper.
+
+Luna frowns as she picks it up.
+
+LUNA
+An ad...?
+
+![[Show ad on screen:
+
+"~ Moonlight Woods ~
+
+Furniture, signs, dolls, anything that requires skill and quality--bring it to us.
+
+246 Ailey Street" ]]
+
+LUNA
+(almost laughs at the sheer normalcy of it)
+An ad. Oh Divines, what did I think it was? I'm far too worked up...
+
+LUNA
+(pauses and looks at the note again)
+But still... No ad magically finds its way under a High Mage's door like this.
+
+LUNA
+Someone wants to meet with me, and I'm curious who it is.
+
+Luna carefully clears her desk of any evidence and leaves.
+
+ INT. MOONLIGHT WOODS STORE
+
+Luna pauses for a moment, examining the eerily realistic wooden dolls displayed in the shop. Snapping out of it, she hands over the ad to the OLD MAN at the counter.
+
+LUNA
+(smiles a little)
+This found its way into my office.
+
+OLD MAN
+(smiles and motions to a door at the back)
+He's waiting in the workshop.
+
+LUNA (V.O.)
+He...? Well, let's see who this secret admirer is...
+
+INT. EILHART'S WORKSHOP
+
+Eilhart is hunched over a table working on a doll, and straightens back up to look at Luna as she comes in. Serach is studying quietly in a corner, half hidden among dolls in progress.
+
+EILHART
+So you made it. I was starting to get worried.
+
+EILHART
+I realize this isn't the most conventional meeting place, but please humour me.
+
+EILHART
+Why do you think I had you come here?
+
+![[Show choices:
+
+1A - "I'd say your guess is as good as mine, but you know why you brought me here."
+
+1B - "You have something to tell me about my investigation."
+
+]]
+
+.1A -
+
+![["Eilhart affinity"++]]
+
+LUNA
+I'd say your guess is as good as mine, but you know why you brought me here.
+
+LUNA
+I doubt it's for jubilant reasons, so why not just cut to the chase, hm?
+
+LUNA (V.O.)
+(trying not to look worried)
+He can't know who I'm working for... Can he? There's no way anybody would know.
+
+LUNA (V.O.)
+But I'd better not look nervous...
+
+![[Skip to 1-CONTINUE]]
+
+1B -
+
+LUNA
+You have something to tell me about my investigation.
+
+EILHART
+(chuckles a little, though the smile never reaches his eyes)
+Straight to the point, aren't you?
+
+.1-CONTINUE -
+
+EILHART
+(goes serious)
+I fear you've been a bit too aggressive in your digging around. Asking questions, no matter how discrete, never goes entirely unnoticed.
+
+EILHART
+Some of our colleagues... I'm sure you can guess which... are less than pleased by some of those questions.
+
+LUNA
+(nervously)
+Are they now. What are you getting at?
+
+EILHART
+I just came out of a meeting a few
+
+EILHART
+hours ago. They will be sending someone to tail you from now on.
+
+LUNA (V.O.)
+Oh, snap. Not good.
+
+EILHART
+Look, I don't know what you're looking for, and it's your choice whether you're going to continue despite the spy or not, but...
+
+EILHART
+Whatever it is, is it really worth risking your sister over this?
+
+LUNA
+Risking her?
+
+EILHART
+(pauses)
+I'm afraid if you don't stop, we'll have another Nikolai on our hands...
+
+XXXXXXXXXXXXXXXXXXX
+
+![[Show choices:
+
+2A - "Why would you warn me about this?"
+
+2B - "Is that a threat?"
+
+]]
+
+2A -
+
+![["Eilhart affection"++]
+
+LUNA
+(trying to look calm)
+I think that's blowing things out of proportion, don't you...?
+
+LUNA
+I know my sister is innocent of anything they could accuse her of, and anything they could possibly come up with wouldn't lead to an extreme measure like that. Unless they plan on framing her, but can they really justify doing that to someone who isn't even in the Guild anymore?
+
+LUNA
+I suppose the part that I should find most concerning, however, is that you'd warn me of this.
+
+EILHART
+(smiles a little)
+I would be surprised if you didn't find it strange.
+
+EILHART
+(looks serious)
+I'm not stupid, Luna. Maybe a lot of it is my own fault, but I know I'm not exactly beloved by our "esteemed colleagues".
+
+LUNA (V.O.)
+...Pretty sure they would like you better if you didn't sound so sarcastic, Eilhart.
+
+EILHART
+Right now, the only reason I'm fine is because they have a common enemy. But if they take you down, it's gonna make them more confident, and there will be less opposition when they turn on me.
+
+EILHART
+And I know they will. In fact, more likely than not I'm the next target. So call it taking preventive action.
+
+LUNA
+(sympathetic)
+Well I can't really argue with that. They've been apprehensive about you since the beginning...
+
+EILHART
+(chuckles a little)
+Well, I suppose not many powerful, hard-working High Mages who descend from the great magical families of old appreciate having some random Joe go from nobody to the same rank as them.
+
+LUNA (V.O.)
+Tell me about it. But it does make you wonder how he got into the Council...
+
+![[Skip to 2-CONTINUE]]
+
+.2B -
+
+![["Eilhart affinity"--]]
+
+LUNA
+Is that a threat?
+
+EILHART
+(just stares)
+Why you I threaten you?
+
+EILHART
+I'm just saying, Luna. You get people in the Council upset asking questions about their affairs, and they start asking questions about yours.
+
+EILHART
+There's always something to be dug up. Even a necromancer like him probably wouldn't have been exposed if he kept to himself.
+
+LUNA (V.O.)
+Is he saying Nikolai asked questions too? What kind of questions?
+
+.2-CONTINUE -
+
+EILHART
+(shakes his head)
+In any case... You underestimate a High Mage's determination to keep their secrets safe.
+
+EILHART
+They didn't really approve of it, but framing her is the back-up plan. You know how influent some of us can be... how many favors are owed. Your sister really doesn't
+
+EILHART
+need this right now.
+
+LUNA (V.O.)
+Really? He's telling it to my face, that they're going to frame her? They went and decided that in a meeting?
+
+LUNA (V.O.)
+I can't tell if he's playing me, or if they're really that rotten...
+
+EILHART
+Won't you stop, Luna? While you still can?
+
+LUNA (V.O.)
+This sounds awfully familiar. But my answer is still the same.
+
+LUNA
+I can poke around with a little more finesse, but I can't promise I'll stop what I'm doing. I don't want to put Sola in a tough spot, even more now that she has Alice to worry about...
+
+LUNA
+But I can't just sit by and do nothing. I've done far too much of that already.
+
+EILHART
+(sighs)
+I can't talk you out of it, can I?
+
+EILHART
+But there are so many that are more than content to just sit by and watch. What suddenly triggered this need of yours to risk your own family for this?
+
+![[Show choices:
+
+3A - "I'd tell you, but that would give you far more leverage than I'm comfortable with. Nice try though."
+
+3B - "I made a promise..."
+
+]]
+
+
+XXXXXXXXXXXXXXXXX
+
+.3A -
+
+![["Eilhart affinity"++]]
+
+LUNA
+(smiles)
+I'd tell you, but that would give you far more leverage than I'm comfortable with. Nice try though.
+
+LUNA
+I've sat by and watched innocent people take heat for our mistakes one too many times, thank you. And I will not sit quietly if my sister has even the slightest chance at being one of them.
+
+EILHART
+(gives a mock sigh)
+Oh, well. It was worth the try.
+
+![[Skip to 3-CONTINUE]]
+
+3B -
+
+LUNA
+(softly)
+I made a promise...
+
+EILHART
+Could you be any more vague? Who did you make this promise to?
+
+![[Show choices:
+
+4A - "As a matter of fact, yes. It wouldn't be fun if I told you, would it?"
+
+4B - "I met Dmitri Amarov."]]
+
+4A -
+
+LUNA
+(smiles)
+As a matter of fact, yes. It wouldn't be fun if I told you, would it?
+
+EILHART
+(makes a face)
+Why tell me at all if you're just going to leave me curious?
+
+EILHART
+(gives up and sighs)
+Fine. So... What are you going to do with all of this?
+
+![[Skip to 3-CONTINUE]]
+
+4B -
+
+![[Set "told Eilhart about Dmitri" to TRUE]]
+
+LUNA
+I met Dmitri Amarov.
+
+EILHART
+(stunned)
+What?! Nikolai's kid? How... Where?
+
+LUNA
+In the demon realm. It turns out, he infiltrated the Guild and was under our noses all along.
+
+LUNA (V.O.)
+It might be better not to tell him I was the one who helped him infiltrate us at this point...
+
+LUNA
+He was one of the apprentices that got left behind in the first expedition.
+
+EILHART
+(raises an eyebrow)
+And he managed to survive in a place half a dozen High Mages couldn't?
+
+LUNA
+He made friends with some demons.
+
+LUNA (V.O.)
+...Better not say they were undead. Divines, I'm not helping convince anyone his father wasn't a necromancer, am I?
+
+LUNA
+Anyway... He told me Nikolai was framed. He wanted me to investigate the matter.
+
+LUNA (V.O.)
+Well that caught his attention. Maybe too much?
+
+EILHART
+(frowns)
+But the evidence was pretty convincing.
+
+LUNA
+(scoffs)
+You're the one who was just warning me that the Council wanted to get rid of me so badly they might frame my sister. You tell me if the evidence wasn't a little too convincing.
+
+EILHART
+(slowly nods)
+Alright, I'll bite. Suppose you do find evidence that he was innocent...
+
+.3-CONTINUE -
+
+LUNA (V.O.)
+Wow. I've never seen him look so serious.
+
+EILHART
+What do you expect to do with all of this? Bring down the Council?
+
+EILHART
+You know the problem isn't just one of us, but all of us. And even then it wouldn't keep innocent people from being hurt... Other rotten High Mages would just find their way in.
+
+![[Show choice:
+
+5A - "I just want to convince everyone that not all High Mages are sell outs."
+
+5B - "I will bring down all of you if I have to."
+
+]]
+
+5A -
+
+![["Eilhart affinity" ++]]
+
+LUNA
+I honestly don't know what I plan on doing with the information. Perhaps simply convince everyone that not all High Mages are sell outs.
+
+LUNA
+All I know is that I've been quiet for too long, and I can't let things continue.
+
+EILHART
+(looks surprised)
+You don't think all High Mages are sell outs?
+
+LUNA (V.O.)
+So you do?
+
+
+
+XXXXXXXXXXXX
+
+![[Skip to 5-CONTINUE]]
+
+5B -
+
+![["Eilhart affinity" -= 3;
+
+![[Set "threatened to bring down Council" to TRUE]]
+
+LUNA (V.O.)
+I have to do this. I owe it to Nikolai...
+
+LUNA
+I will bring down all of you if I have to.
+
+LUNA
+I don't care if more rotten High Mages get in. I'll bring them down too.
+
+EILHART
+So you don't care about the damage you'll do?
+
+LUNA (V.O.)
+(pauses for a moment)
+That look in his eyes... Did I make a mistake here?
+
+LUNA (V.O.)
+But I've gone too far to back down now. Nikolai deserves better.
+
+LUNA
+Someone has to do it! The Council's corruption is an insult to the entire Guild!
+
+EILHART
+(looking carefully neutral)
+I'd agree with you... But you know, as refreshing as your dedication is, people like that never last.
+
+.5-CONTINUE -
+
+A knock interrupts them. ERIK, Eilhart's sickly looking son, shyly pokes his head inside the room.
+
+ERIK
+Pop? Mom wants...
+
+EILHART
+(interrupts him)
+What are you doing here? Didn't I tell you to keep out of the workshop?
+
+LUNA
+(does a double-take)
+Wait what? "Pop"?
+
+ERIK
+S-Sorry. Mom asked me to ask you to buy some milk...
+
+ERIK
+(coughs quietly in the back of his throat)
+Who's the lady?
+
+EILHART
+She's from work. Now what did I say?
+
+EILHART
+(looks at Serach)
+Serach, take him back to his mother.
+
+SERACH
+(stands up and takes Erik's hand)
+Yes, sir.
+
+LUNA (V.O.)
+Too late, Eilhart. There's no way I wouldn't notice this much dark energy.
+
+LUNA (V.O.)
+Is this... A curse? A powerful one, too... What's going on here?
+
+![[If "threatened to bring down the Council" is TRUE and "Eilhart affinity" is less or equal to 0
+
+LUNA (V.O.)
+There's something off here. Eilhart looks tense... I don't like it. Maybe I shouldn't linger here.
+
+XXX
+
+{{Show choices:
+
+6A - "I didn't know you had a son." (Stay.)
+
+6B - "Uh... I'll be going." (Leave.)
+
+}}
+
+6B -
+
+LUNA
+Uh... I'll be going. See you at work.
+
+LUNA (V.O.)
+Why do I feel like I'm running?
+
+![[Skip to Amarov house]]
+
+6A -
+
+LUNA
+I wasn't aware you had a son... not that I've ever delved into your personal life. He seems rather... under the weather. I don't suppose there's a reason for that, is there?
+
+EILHART
+(looks amused)
+
+EILHART
+Maybe, maybe not.
+
+EILHART
+(suddenly serious)
+Honestly, you don't really expect me to tell you, do you? Right after you threatened to bring down the same Council I happen to be part of?
+
+LUNA (V.O.)
+(eyes go wide)
+I have a really bad feeling--
+
+Serach moves behind her unseen and traps her in a headlock.
+
+LUNA
+Ahh! Get--off--
+
+Luna lashes out with sharp shadow tendrils, but Serach keeps choking her.
+
+LUNA (V.O.)
+Impossible! How are they still standing?! How--
+
+Luna sees metal peeking out from Serach's torn skin.
+
+LUNA (V.O.)
+An automaton?!
+
+LUNA
+Eilha--
+
+EILHART
+(keeps his expression entirely neutral)
+Do it, Serach.
+
+LUNA
+(horrified)
+Serach? Divines. His apprentice is an aut--
+
+Serach snaps her neck. Luna slumps against him.
+
+EILHART
+(shoulders slump, suddenly looks so very sad and tired)
+I don't disagree with you, Luna. The Council is rotten. Bringing it down would be a favor to
+
+EILHART
+everyone...
+
+EILHART
+But I can't let someone who doesn't know how to hide her cards leave knowing about my family.
+
+EILHART
+(looks so sad)
+I'm really, really sorry.
+
+EILHART
+Come, Serach. Let's hide her with the others...
+
+![[Ending #1]]
+
+]]
+
+EILHART
+(clears his throat)
+You were leaving?
+
+![[Show choices
+
+7A - "Was." (Stay.)
+
+7B - "Uhm... Yes." (Leave.)
+
+]]
+
+7B -
+
+LUNA
+Uhm... Yes. See you later.
+
+![[Skip to Amarov house]]
+
+7A -
+
+LUNA
+Was.
+
+LUNA (V.O.)
+But now I have some questions for you.
+
+LUNA
+I wasn't aware you had a son... not that I've ever delved into your personal life. He seems rather... under the weather. I don't suppose
+
+LUNA
+there's a reason for that, is there?
+
+EILHART
+(pointedly)
+Well, yes, people not being aware of it was kind of the point.
+
+EILHART
+Children get colds. Which is why I wanted him in bed, not wandering around.
+
+LUNA (V.O.)
+Really now.
+
+![[Show choices:
+
+8A - "Alright. I'll see you at work then." (Leave.) [if "told Eilhart about Dmitri" is TRUE] 8B - "Come on, I told you my secret."
+
+[else] 8C - "How about a deal?"]]
+
+8A -
+
+LUNA (V.O.)
+(sighs)
+If he doesn't want to tell me, there's nothing I can do.
+
+LUNA
+Alright. I'll see you at work then.
+
+![[Skip to Amarov house]]
+
+8B -
+
+LUNA
+Come on, I told you my secret.
+
+EILHART
+(sighs)
+I guess you did.
+
+![[Skip to 8-CONTINUE]]
+
+8C -
+
+![[Set "heard Eilhart's story" to TRUE]]
+
+LUNA
+I'm not a sell out, Eilhart, you
+
+LUNA
+know that. Neither is my grandfather. Rather, he's feared this the whole time he's been on council.
+
+LUNA
+I'm not saying we can save anyone... hell, I'm not even saying we can change it. But we can try, right? So I'll make you a deal.
+
+LUNA
+(nods at the door)
+You tell me what's up with him...
+
+LUNA
+And I'll tell you what I'm looking for, or who asked me to dig.
+
+.8-CONTINUE -
+
+Eilhart is silent for a long time.
+
+LUNA (V.O.)
+He's really thinking it through, isn't he? This has to be something big...
+
+EILHART
+It was years ago. Back then, I didn't have the faintest how magic worked and I honestly didn't care. I just worked here and I was happy with it. It's been my family's business for as long as any of us can remember.
+
+LUNA (V.O.)
+He looks wistful... Better days, I take it.
+
+EILHART
+There was some High Mage who was under investigation by the council. He was under fire for a great count of murders.
+
+LUNA (V.O.)
+Murder? Years ago... I think Grandfather mentioned it. Was it Korone?
+
+EILHART
+(nods)
+When the investigation started closing in, he panicked and fled... He came into the city, and into our shop, and demanded that we hide him from the Guild or else he would kill us.
+
+EILHART
+We spent about three weeks like that. Then our food ran out, and he gave me permission to leave and go buy supplies. I had no intention of risking my family, but my wife... She was always so honest, so scrupulous.
+
+EILHART
+(smiles sadly)
+While he wasn't listening, she insisted that I tell the Guild. So when I left, I went and warned them... They didn't really believe me, so they only sent a few mages back with me.
+
+LUNA
+(shocked)
+They didn't send any High Mages? That's ridiculous. Even if they didn't believe you, they should have played it safe anyway.
+
+EILHART
+(his gaze falls)
+He killed them so easily. Then he turned on us... He cursed us. But I wasn't affected... You could say that was how I discovered my gift for magic.
+
+EILHART
+(motions towards a long, thin metal tool leaning against the wall)
+He didn't expect it. While he was still recovering, I put that thing over there... Right through his heart.
+
+EILHART
+But it wasn't enough to dispell the curse. I went to the Guild for help. I begged the Council to help find a cure... But do you think they did anything?
+
+EILHART
+(angrily)
+No, they didn't want to admit one of their own did that. So that they could keep up appearances, they even threatened us to shut us up. I'm fairly sure if I hadn't changed my identity after that, I wouldn't even be here now.
+
+LUNA
+(honestly upset)
+I'm sorry... I had no idea.
+
+EILHART
+(crosses his arms)
+Do you see now why I have some trouble believing you when you say not all High Mages are sell outs?
+
+LUNA
+(sadly)
+I can't blame you.
+
+EILHART
+Maybe if you had been there back then, things would have been different.
+
+EILHART
+Or maybe you would have done nothing all the same, which makes you really no different from Lycioe or Victoria or any of them. 'Atoning' now won't make up for what not only me, but so many others have gone through.
+
+EILHART
+In any case, I joined the Guild hoping I could gain enough influence to force them to dispell the curse...
+
+EILHART
+(laughs dryly)
+I must have set some kind of record for blazing through the ranks like that, I was so desperate. When time is your enemy, nothing else matters, you know?
+
+EILHART
+(looks away)
+But I still wasn't fast enough. By the time I got to my post, it was too late. The curse has progressed too far, there is... There is no annulling it now.
+
+LUNA
+Eilhart...
+
+EILHART
+(pained)
+My wife has been bedridden for the past few months, she doesn't have much long left. Erik isn't far behind, as you just saw... And our little Emma hasn't woken up since that day. Even if she did wake up, what's left of her body to live in? I just...
+
+Eilhart takes a deep breath, trying to calm himself
+
+EILHART
+Needless to say, that is far, far more than I've told any of our colleagues, so I would appreciate some discretion.
+
+EILHART
+I went to insane lengths to keep my family's existence secret and keep them out of Council matters. So if you ever even think about threatening them or using them as leverage, I'm sticking that same tool through your heart too. Are we clear?
+
+LUNA (V.O.)
+He doesn't even look like he's kidding.
+
+EILHART
+Now tell me what it is you're looking for.
+
+LUNA
+(pauses)
+I'm looking for the evidence used against Nikolai. I had started when his integrity was called into question, but stopped after I was too late. Now I'm looking again to see if I can trace it back.
+
+LUNA
+I want to know who framed him... and why. Nikolai didn't step on any toes that I was aware of. It doesn't add up.
+
+EILHART
+Are you that sure he really was framed? He could have had a life you didn't know of... Like I have a son, and not one of our colleagues ever imagined that.
+
+![[if "told Eilhart about Dmitri" is TRUE
+
+LUNA
+Dmitri himself told me. Sure, you could say he was lying... But why ask me to look into it at all if he was?
+
+.]]
+
+![[else
+
+LUNA
+That's different. I didn't think he was a necromancer back then... And I still don't, even now.
+
+LUNA (V.O)
+I can't really tell him Dmitri told me he was innocent...
+
+.]]
+
+EILHART
+(sighs)
+Given my story, I should be glad
+
+EILHART
+you're investigating... But even if some of the evidence might have looked shady, I thought a lot of it seemed genuine.
+
+EILHART
+If someone took it from our evidence vaults from previous cases, someone would have noticed, with all the noise surrounding the trial. Wouldn't only a real necromancer have access to the kind of equipment we found in his house?
+
+EILHART
+Unless... Are you suggesting the one who framed Nikolai was the real necromancer?
+
+LUNA
+The real necromancer perhaps, or someone who had access to alternate evidence. I don't really know, I haven't been able to dig that far.
+
+EILHART
+Well, it looks like you're going to have your work cut out for you. No one is exactly going to confess to being a necromancer.
+
+EILHART
+Good luck, Luna. And do watch your back, I'd really rather not be left alone with the rest of our "esteemed colleagues".
+
+LUNA
+(laughs)
+Indeed, the last thing you need is to be left to the hounds. I'll do my best to be careful.
+
+LUNA (V.O.)
+Well, this is a.... weird situation, to say the least. But now that we both have leverage against the other, it keeps both our secrets safe.
+
+LUNA (V.O.)
+Unless one of us can strike faster
+
+LUNA (V.O.)
+than the other, my investigation should be safe with him...
+
+LUNA
+I'll see you at council then.
+
+EILHART
+See you.
+
+EXT. OLD AMAROV HOUSE
+
+Luna is standing outside the decrepit house, hiding in the shadows with her hood drawn up.
+
+![[Play the sound of wind howling]]
+
+LUNA (V.O.)
+(looks behind her)
+Looks I lost my tail... Good.
+
+LUNA (V.O.)
+(turns back to the house)
+It's been abandoned for so long... Dmitri was too young to live here and no one wanted to live in a necromancer's house. If there's anything left from all those years ago, this is the place to find it...
+
+INT. OLD AMAROV HOUSE
+
+The furniture and everything it once held have been left to rot in the empty house. Its inhabitants are insects and a pack of rats, and one stops and stands up on its hind legs, sniffing at LUNA. It scampers off and squeaks as it slips on a thin layer of ice, then quickly gets back up and scurries off somewhere unseen.
+
+LUNA
+I still remember this house... Oh Dmitri, do you remember it the same way?
+
+LUNA (V.O.)
+Did you, too, wish you could stay in this house forever...?
+
+Luna almost slips on the same patch of ice.
+
+LUNA
+(scowls, then looks confused)
+
+LUNA
+Wait... How did ice get here?
+
+A loud creak from farther away makes Luna jump. She turns and sees boot marks on the dusty floor.
+
+![[Play loud creaking sound]]
+
+LUNA
+(hair stands on end, laughs nervously)
+Oh dear. This is the stuff horror stories are made of.
+
+LUNA
+Of course dark magic exists... It's what our Guild is supposed to protect people against.
+
+LUNA
+But there would be no such magic in your house, right, Nikolai...?
+
+Luna takes a deep breath to steel herself, then slowly moves to the source of the noise, hands swirling with magic.
+
+ INT. NIKOLAI'S STUDY
+
+A hooded figure slowly stands up from where it was crouched behind the desk and faces Luna.
+
+![[Increase howling wind sound]]
+
+LUNA
+Wha--
+
+One of the windows shatters and the wind sends papers fluttering all across the room. An inkwell falls and shatters loudly.
+
+LUNA
+(yelps)
+Gyaah!
+
+LUNA
+(holds up her hands)
+What... Who are you?
+
+LUNA (V.O.)
+It doesn't feel human. It can't be one of Eilhart's automatons... They're not that lifelike yet... Are they?
+
+LUNA (V.O.)
+Is that... Frost near its feet?
+
+LUNA (V.O.)
+Wait... Snow inside the house?! How can it be?
+
+![[The wind howls deafeningly]]
+
+NIKOLAI
+Why are you here?
+
+NIKOLAI
+Why now?
+
+LUNA
+(flinches, shouts trying to be heard above the wind)
+I... I'm not here simply for my own sake!
+
+LUNA
+I come as much for Dmitri Amarov as I do for myself! I'm just looking for answers as to what happened here... I don't feel that Nikolai's case was examined enough. I want to know if he was innocent... and if he was, why he was framed!
+
+LUNA (V.O.)
+I don't know what this is about... But what else can I say?!
+
+The wind dies a little.
+
+NIKOLAI
+You had years for that! Why only now?
+
+LUNA
+(flinches again)
+I'm finishing what I started.
+
+LUNA
+I started investigating Nikolai's case when he was charged, but everything I came across either disappeared or led me to a dead end.
+
+LUNA
+I didn't try hard enough and he died because of that. So when Dmitri asked if I would look again... I agreed.
+
+LUNA
+I want to put this to rest once and for all. I want to know the truth. People need to know if the Guild condemned an innocent man.
+
+LUNA (V.O.)
+And I'm almost certain that's the case...
+
+The wind stops, but the room is still freezing.
+
+NIKOLAI
+And what if that is the case? What will you do if the Guild murdered an innocent man...?
+
+NIKOLAI
+How far are you willing to go for this, Luna?
+
+LUNA (V.O.)
+(startled)
+How does it know my name?
+
+LUNA
+(with conviction)
+I'm willing to go as far as it takes. I failed the Amarov family once... I refuse to do it again.
+
+NIKOLAI
+(is silent for a while, then motions to the floor where he'd been crouched)
+Break the seal. It was not made for a dead man to open.
+
+LUNA
+(hesitates and moves over to the desk)
+A rune...?
+
+Nikolai takes down his hood, revealing a face made entirely of ice.
+
+NIKOLAI
+(softly)
+You didn't fail us... I know you kept fighting until the end.
+
+Luna breaks the seal and straightens back up.
+
+LUNA
+(looks back and sees him)
+Nikolai... So it is you. How...?
+
+NIKOLAI
+I don't know. I just... Woke up, and I was there. It was only a few years ago. I'd been dead for at least a decade. I can't even begin to explain it...
+
+LUNA
+(tears up)
+I missed you. I missed you so much.
+
+NIKOLAI
+(looks away)
+I know.
+
+NIKOLAI
+(doesn't really know how to react, and motions awkwardly at the seal)
+I can imagine why someone would want me dead, but I have no idea who.
+
+Nikolai moves over to the hidden cache and pulls out a few glass spheres from behind a stack of papers.
+
+LUNA
+Recording spheres...?
+
+Nikolai holds up a sphere and it glows as it reproduces his voice and another familiar one.
+
+CROWE (RECORDING)
+Why are you recording this, Nikolai?
+
+NIKOLAI (RECORDING)
+For security. In case anything happens. You should, too.
+
+CROWE (RECORDING)
+Do you really think something will
+
+CROWE (RECORDING)
+happen?
+
+NIKOLAI (RECORDING)
+I don't know, but I'm not taking the chance. You know the company we keep can be... dangerous.
+
+NIKOLAI (RECORDING)
+I owe it to Dmitri to be careful... And if that's not enough, to at least leave him something to understand why.
+
+CROWE (RECORDING)
+You do realize I'm a time mage?
+
+NIKOLAI (RECORDING)
+Yes, but so do the people we're investigating. Now...
+
+NIKOLAI (RECORDING)
+(clears his throat)
+This is week 10 of our investigation. So far, we've found 24 possible victims among the people who went missing in the town of Ayla and surroundings.
+
+NIKOLAI (RECORDING)
+They were always people who left town alone, and always very healthy. There seems to be a predominance of light hair and eyes, although the last ones were more varied. Ages vary as well, although most were 26 and younger. Of these 24 people, 18 had magical blood and 11 were affiliated to the Guild in some way.
+
+NIKOLAI (RECORDING)
+Though there is nothing physical to suggest the same person is responsible, kidnappings of magically inclined people are relatively rare and this represents a considerable increase in statistics.
+
+LUNA
+What...? What is this?
+
+NIKOLAI (RECORDING)
+Furthermore, one of these was a Senior Spellcaster, and although retired, he was believed to be still very powerful. In order to subdue him, one would have to be just as powerful and thus likely in the higher ranks of our Guild. The 15 missing corpses from the same area would also suggest Necromancy might be involved, although we cannot be sure at this time if it was the same person.
+
+NIKOLAI (RECORDING)
+This covert investigation was requested by the Aylan branch of the Guild. Any clues the local investigators have found either led nowhere or were disposed of with suspicious readiness. Whether it is a powerful necromancer out there, or a high-ranked mage in our own midst, our purpose is to determine whether someone within the Council would have means and motive to do this...
+
+LUNA
+What... I never heard of any of this. A covert investigation into the Council itself...?
+
+LUNA (V.O.)
+No wonder someone would want to frame him. But why didn't Crowe come forward with this if he was investigating it too? Wait...
+
+LUNA (V.O.)
+Oh, crap.
+
+LUNA
+Nikolai... Crowe is a necromancer. We found that out the hard way in our expedition.
+
+LUNA (V.O.)
+Though he did help us with the vampires...
+
+LUNA
+He would have had the means to frame you. He had access to the materials that would have been needed.
+
+LUNA
+It was all so meticulously planned... Almost none of the artifacts are out of place or traceable. It's very, very possible some of the relics were created by whoever planted the evidence.
+
+NIKOLAI
+(angrily)
+He what?!
+
+Another window shatters, making Luna jump.
+
+NIKOLAI
+Wonderful. I've been working with the biggest hypocrite in this world, and in the next realm as well. Helping chase a potential necromancer... Keeping quiet while I was accused. Or, if what you say is right, framing me in the first place.
+
+The room temperature has dropped considerably, and Luna shivers in the cold.
+
+LUNA
+Well he would have had access to the right kind of materials. I've been hunting down similar pieces and some of them weren't easy to come by. I think it's safe to assume that whoever did this practiced the art, or knew someone who did.
+
+![[if "heard Eilhart's story" is TRUE
+
+LUNA
+But...
+
+LUNA (V.O.)
+Light hair and eyes? And the culprit had to have immense magic...
+
+LUNA
+Could it be...? Eilhart?
+
+NIKOLAI
+(snappishly)
+What about him?
+
+LUNA
+Well... Before he became a High Mage, his family fell victim to Korone. All of them were stricken with powerful ailments, and by the time he made it high enough to break the curse, there was no going back on it.
+
+LUNA (V.O.)
+Sorry, Eilhart. But if you're involved in this, I can't really keep your secret from him...
+
+LUNA
+It's not... impossible to assume he's been using his automatons to try and bring his family back, and there's a good chance he'd need to know necromancy to do so.
+
+NIKOLAI
+(looks surprised)
+Eilhart... Really? I never would have guessed. Still... You may be right. When I got here a few weeks ago, it was clear someone was in the house before. It could have been him.
+
+NIKOLAI
+I'm not sure how the automatons would help, but if he can animate matter and give it will, I suppose he might think he could animate bodies as well... And that, indeed, is Necromancy.
+
+NIKOLAI
+But then why kidnap all those people? You think they were sacrifices, or practice? He could have just stuck to the corpses he was stealing from the graveyards... No need to kill, unless it was part
+
+NIKOLAI
+of some ritual.
+
+NIKOLAI
+(wryly)
+Contrary to popular belief, I really wouldn't know.
+
+LUNA
+Sadly I know about as much as you. Perhaps Dmitri would have a better idea. I know he's been struggling with this puzzle just as much as I have...
+
+.]]
+
+.[[ELSE
+
+NIKOLAI
+We need answers. What became of Crowe?
+
+LUNA
+He was one of those that joined the demon High King. The vampires Dmitri is living with can likely summon him, but it doesn't mean we'll get any answers.
+
+NIKOLAI
+(angrily)
+He's not in the Guild anymore. He's got nothing to lose. The least he could do is come clean.
+
+LUNA
+I know. And I will badger him until he does, I promise. But honestly...
+
+NIKOLAI
+What?
+
+LUNA
+I'm not sure about this, Nikolai. By "exposing" you as a necromancer, he would just be making the Council be even more careful about necromancers hidden in our midst. This would be bad for him.
+
+NIKOLAI
+You think he didn't do it?
+
+LUNA
+He's the most obvious suspect, yes, but as far as the Council is concerned, so were you.
+
+LUNA
+Maybe this isn't as straightforward as we'd like to think. He could have had an accomplice, if it was him at all... The Council DOES seem a little too concerned with where I stick my nose.
+
+LUNA
+(hesitates, then looks at Nikolai again)
+I could send word to Dmitri, see if he can contact Crowe in the meantime. I know he's been struggling with this puzzle as much as I have...
+
+NIKOLAI
+(looks sad at the mention of his son)
+Dmitri...
+
+LUNA
+(smiles a little)
+He found himself a vampire woman and settled down, would you believe it? He has a little one of his own now.
+
+LUNA
+A sweet four year old by the name of Lucille. She's very articulate... It makes me think of you.
+
+Nikolai smiles at the news, but still looks so very sad.
+
+LUNA
+What is it? You look troubled.
+
+NIKOLAI
+Send him the recordings if you wish. But... Please don't tell him how you got them.
+
+LUNA
+What? Why?
+
+NIKOLAI
+You said it yourself. He has a family of his own now... I was never much of a father in life, how fair would it be to disrupt his life now that I'm dead?
+
+NIKOLAI
+I don't even know how I came back. That also means I don't know how long this will last. For all I know, I could just disappear tomorrow, for good this time.
+
+NIKOLAI
+(sadly)
+I don't want to put him through that once again.
+
+LUNA
+Nikolai...
+
+![[Show choices:
+
+9A - "I will respect your wishes."
+
+9B - "Stop being a coward."]]
+
+9A -
+
+LUNA
+I can see why you would want that. I wish you would come back to him, but... I will respect your wishes.
+
+NIKOLAI
+(smiling sadly)
+Thank you, Luna. Believe me, I wish I could...
+
+![[Jump to 9-CONTINUE]]
+
+9B -
+
+LUNA
+Stop being a coward.
+
+NIKOLAI
+(surprised)
+What?
+
+LUNA
+He's your son. He might not be a
+
+LUNA
+little boy half your size anymore, but he still needs you.
+
+LUNA
+If you weren't enough of a father in life.. Then now is the time to try again.
+
+LUNA
+You were given a second chance, Nikolai. Not many get that opportunity. Don't waste it... Please.
+
+NIKOLAI
+(still surprised, a little flustered)
+I... I see. I will... Think about it.
+
+NIKOLAI
+(recomposing himself)
+I'm sorry if I upset you. Maybe you do have a point. I just... I guess I'm afraid.
+
+.9-CONTINUE
+
+Luna pauses for a moment, then hugs Nikolai tightly despite shivering with the cold.
+
+LUNA
+I won't let you down... Not after you've lost so much already. I won't let them take more from you.
+
+Nikolai opens his mouth to say something, but stops.
+
+Flustered, he pulls away from Luna.
+
+NIKOLAI
+I... Thank you. Nobody else should have to go through this. To make sure it never happens again... That is the best I could hope for.
+
+Nikolai suddenly pauses and frowns, looking around.
+
+NIKOLAI
+Do you feel it?
+
+LUNA (V.O.)
+Wow, Nikolai. Talk about a smooth
+
+LUNA (V.O.)
+way to change the subject.
+
+NIKOLAI
+(catches the way she's looking at him and scowls, still flustered)
+I mean it. Over there.
+
+Giving in, Luna goes over to the bookshelf he's pointing at and pushes the books aside. She gasps at the sight of a small, softly glowing glass sphere.
+
+LUNA
+A recording sphere?!
+
+NIKOLAI
+What?! Let me see!
+
+NIKOLAI
+This doesn't make sense. Who...? Wait.
+
+LUNA
+It's so smooth... Too smooth. You could almost say it's impossibly perfect.
+
+Nikolai frowns, suddenly understanding where she's going.
+
+NIKOLAI
+An object not of this world. Not naturally in it, in any case. Are you thinking...?
+
+LUNA
+(nods, completing his sentence)
+There's only one man that could make something like this. A creation mage... The most skilled one that we know of.
+
+NIKOLAI
+Albert Lycioe.
+
+LUNA
+But why would he hide a recording sphere here? It doesn't make sense.
+
+NIKOLAI
+Unless he figured out what you were investigating and was afraid of what you might find out.
+
+Luna is quiet for a moment, fiddling with the sphere as she tries to get it to play its recording.
+
+LUNA
+Damn, I can't get it to play. It's warded against outside interference. It would take a better enchanter than I to break Albert's charm.
+
+LUNA
+Maybe I should just go confront him. He can't really deny it's his work, I doubt his ego could take people thinking there's someone as skilled as him out there.
+
+LUNA (V.O.)
+Wait. I do know an enchanter that's more than powerful enough to break through this...
+
+LUNA (V.O.)
+Should I go to Eilhart? At least I could find out what this sphere recorded before I do anything about it...
+
+![[Player choices:
+
+10-A: Confront Albert about the sphere.
+
+10-B: Ask Eilhart for help viewing the recording.]] 10-A:
+
+![[If "heard Eilhart's story" is TRUE
+
+LUNA (V.O.)
+Eilhart is starting to look like a really good suspect... I don't know what Albert is up to, but going straight to our prime suspect sounds like a terrible idea.
+
+LUNA (V.O.)
+Besides, if he sees the recording he'll know Nikolai is around. I'd better go to the source instead...
+
+LUNA
+Looks like it's time to pay one pompous redhead a visit.
+
+![[Skip to Albert's study]]
+
+]]
+
+![[Else
+
+LUNA (V.O.)
+Eilhart is too unpredictable. I don't know what he'd do if he saw Nikolai on the recording. I'd better go to the source instead...
+
+LUNA
+Looks like it's time to pay one pompous redhead a visit.
+
+![[Skip to Albert's study]]
+
+]]
+
+ INT. ALBERT'S STUDY
+
+Albert sits smugly at his overly ornate desk, toying with his latest creation, a glass bird with so much detail no artisan could ever have crafted it.
+
+ALBERT
+Now here's a visit I wasn't expecting. To what do I owe the pleasure?
+
+LUNA (V.O.)
+If I leave it up to him, this conversation will last forever and go nowhere... I'll cut to the chase. If anything, that just might unsettle him enough that he'll let something slip.
+
+Luna holds up the recording sphere.
+
+LUNA
+This.
+
+Surprise flashes across Albert's face, but he swiftly recomposes himself.
+
+ALBERT
+Might I ask what you were doing there?
+
+LUNA (V.O.)
+I can't tell if he's not denying
+
+LUNA (V.O.)
+it, or if he's fishing for information by being purposely vague...
+
+LUNA
+I could ask you the same thing. Ladies first, isn't that what you always said?
+
+ALBERT
+(gives a fake smile)
+Let's compare notes then. Where did you find it?
+
+LUNA (V.O.)
+Ugh. Really? We're going nowhere fast like this, are we? Fine.
+
+LUNA
+Nikolai's house. Your turn.
+
+ALBERT
+I've always had an interest in the case. How about you?
+
+LUNA (V.O.)
+Looks like I can't avoid being blunt here...
+
+LUNA
+I have reason to believe Nikolai was framed. But I was friends with him. Why would you care?
+
+ALBERT
+Why Luna, he and I worked together for years. Isn't it only to be expected that I would care?
+
+LUNA
+I don't recall you standing up for him much back then... Stop playing games, Albert.
+
+ALBERT
+(watching her carefully, then sighs)
+I am not playing games, Luna. You may not know this, but at the time of his death, Amarov was investigating the Council for a series of murders at the request of
+
+ALBERT
+the Aylan branch.
+
+LUNA (V.O.)
+(trying hard to hide her surprise)
+What?! Wasn't it supposed to be a secret?
+
+ALBERT
+The truth is, House Lycioe was originally supposed to run the investigation. A neutral outside party, you understand.
+
+LUNA (V.O.)
+As neutral as they can be with you in the Council.
+
+ALBERT
+But we were spread too thin at the time. Instead, we passed it on to two members who were known to be neutral in Council politics. Amarov and Crowe.
+
+ALBERT
+Long story short... It has always seemed like too much of a coincidence that one of them was executed and the other failed to make any progress in the investigation.
+
+LUNA
+That's funny. Did you manage to fit all your protests at the trial while I was off on a bathroom break? Because I don't remember you saying a word of that.
+
+ALBERT
+(grimaces)
+I have a reputation to uphold, Luna. If I made any comments and turned out to be wrong, it would be a stain on the Lycioe name.
+
+LUNA
+And it's not a stain to let an innocent man die?!
+
+ALBERT
+(exasperated)
+I didn't know he was an innocent man! I still don't. That's why I was looking into it, alright?
+
+ALBERT
+I need to know that we didn't inadvertently cause his death by giving him the case.
+
+LUNA
+What a load of bullshit.
+
+LUNA
+You really expect me to believe that?
+
+LUNA (V.O.)
+A powerful family like his, siding with Nikolai? If there was ever a definition of too good to be true...
+
+ALBERT
+Believe me or not, that's your prerogative. But I need the sphere back, Luna. It's evidence. I can show you the recording if you want, but I need you to return it now.
+
+LUNA (V.O.)
+So that's what it's about, is it? Getting your hands on it?
+
+Albert reaches for the sphere, but Luna backs away.
+
+LUNA (V.O.)
+(tries not to look alarmed)
+It's got me talking to Nikolai in it! No one is ever going to believe he's not a necromancer if they see him back as a ghost... And that's just asking to get myself accused too!
+
+ALBERT
+Luna, give it back!
+
+Albert summons the sphere to himself with his magic. In a panic, Luna shatters it in midair.
+
+LUNA (V.O.)
+Oh crap. Now I've done it.
+
+LUNA (V.O.)
+But I didn't have a choice. I couldn't let the Lycioes have it!
+
+ALBERT
+(stares in shock)
+Luna...
+
+LUNA
+I, uh... I need to go.
+
+Luna runs out before Albert can stop her.
+
+LUNA (V.O.)
+I need to make sure the preparations are ready to go back to the demon realm... There's no telling what the Lycioes might do as payback. Divines damn it!
+
+>FADE OUT
+
+INT. COUNCIL CHAMBERS - NEXT DAY
+
+The High Mages are gathered around the large, circular meeting table. Eilhart is leaning back on his chair with his feet propped up on it. Albert is conspicuously absent: everyone half expects him to start shouting at Eilhart, and the silence is unsettling.
+
+EILHART
+Where is that pompous redhead? He should've been here already. In all of my tenure, I've never seen him be late for council.
+
+CAERS
+(yawns)
+Mmmhh. You, on the other hand, are always late.
+
+EILHART
+And you oversleep more often than not, dearest Pot.
+
+VICTORIA
+What a waste of time.
+
+A knock interrupts them. Serach pokes his head in, looks around and shakes his head.
+
+EILHART
+What is it, Serach?
+
+SERACH
+High Mage Lycioe's apprentice asked me to check if he was here... He was supposed to meet him before the council meeting to give him his tasks for the day, but he never showed himself.
+
+LUNA (V.O.)
+That's not like him...
+
+SERACH
+His family has been asking about his whereabouts as well. I'll have to inform them that he's not here.
+
+EILHART
+Feh. He's probably gone to meet some lover or something. No need to make such a fuss.
+
+CAERS
+He wouldn't. Not with the fiancée he has. He's been pestering me for weeks for a reading on when best to marry her...
+
+EILHART
+Then maybe he's looking for a ring or something equally expensive and yet worthless.
+
+EILHART
+He's a big kid. The pride of the family. He can take care of himself.
+
+VICTORIA
+I have my doubts.
+
+VANESSA
+It is unusual that he would be so late.
+
+READAK
+Ah, give the boy a break. It would be good if he finally decided to loosen up. He's so stuffy I'm amazed his shirt collar hasn't
+
+READAK
+strangled him yet.
+
+LUNA (V.O.)
+(laugh quietly)
+That's my Grandfather. But still...
+
+EILHART
+Do we postpone the session or go on without Mr Truantyoe?
+
+LUNA (V.O.)
+Please tell me you didn't make that pun.
+
+LUNA
+Regardless of whether we continue or not... We should send out people to look for him.
+
+VICTORIA
+I bet we'll discover he was asleep at his desk... or better yet, trying to find Eilhart to make sure he isn't late.
+
+VICTORIA
+And it would be ironic because today you were almost on time.
+
+EILHART
+Yeah, yeah. Blame the blonde, won't you. Alright, let's just send some mooks.
+
+>FADE OUT
+
+But as the day wore on and no word came of Albert Lycioe, the atmosphere grew heavy. Caers muttered of ill omens in the stars, warning him for days on end, Victoria was snappier than ever, and even Readak and Eilhart's jokes grew rare. Luna couldn't help this heavy feeling...
+
+>FADE IN
+
+EXT. GRAVEYARD - NEXT DAY
+
+The High Mages are standing in the graveyard of a small neighboring town. A green-faced CAERS is emptying his breakfast on a nearby tree. The sound of metallic hooves signal EILHART's approach as he rides one of his automatons.
+
+EILHART
+What happened here? I came as fast
+
+EILHART
+as I could.
+
+CAERS
+They f-found him...
+
+EILHART
+What do you mean, 'found' him?
+
+Eilhart pushes past a crowd of many redheaded Lycioes to get to the hole they were all gathered around. Readak is holding Luna as she shakes uncontrollably.
+
+EILHART
+...Oh.
+
+EILHART
+(covers his mouth)
+Caers, any room left near your tree?
+
+Albert's hair pales in face of the blood coating all over his robes. It has pooled under his chest, where countless stab wounds have torn fabric and flesh alike. Two black candles burn over each of his hands, and countless necromantic runes have been drawn all over his too-white skin.
+
+LUNA (V.O.)
+Albert... Oh Divines. How...?
+
+READAK
+Luna, it's okay. There wasn't anything we could do.
+
+LUNA (V.O.)
+Wasn't there? What if I caused this somehow? What if...
+
+LUNA (V.O.)
+Oh no. The broken sphere. There's only one person he could get help from to fix the enchantment...
+
+LUNA (V.O.)
+Could it be... Eilhart...?
+
+Luna looks back at Eilhart warily. Too late, she realizes he isn't the one that is being watched with suspicion.
+
+LUNA (V.O.)
+No... Did the tail they set on me see me studying necromantic artifacts? They can't possibly
+
+LUNA (V.O.)
+think I did this...
+
+EILHART
+(looking back at the entrance)
+News travel fast, don't they?
+
+A redhaired woman whose features are strikingly similar to Albert's walks in, accompanied by some of her family.
+
+EILHART
+(bows his head)
+Vera. I'm really sorry.
+
+LUNA
+We all are... Please, let us know if you need--
+
+But VERA brushes past them, too anguished to reply. She rushes to her brother's side, kneeling near the shallow grave in horror.
+
+VERA
+Albert... No...
+
+They all watch as the grieving Vera places her hand over Albert's eyes. Closing her own, her body shakes with silent sobs as magic builds around her hand.
+
+LUNA (V.O.)
+Right, she's a diviner... At least we'll know who did this.
+
+VICTORIA
+What did you see?
+
+VERA
+(quickly)
+I would speak of it privately.
+
+But the damage is already done. Grief-stricken, angry eyes sought their target faster than she could restrain herself.
+
+Luna feels her stomach twist.
+
+LUNA
+W-What? Why are you looking at me like that?
+
+LUNA
+I-I didn't--
+
+LUNA (V.O.)
+Oh no...
+
+VICTORIA
+Eilhart, won't you escort Luna back to headquarters?
+
+LUNA
+No!
+
+LUNA (V.O.)
+This can't be happening! How... Are the Lycioes in on this? How could Vera be fooled? Why...?
+
+LUNA (V.O.)
+I can't... Oh Divines, any trial at this point is going to be even more of a farce than Nikolai's was.
+
+Eilhart motions to one of his automatons and it follows him closer to Luna as he approaches her.
+
+EILHART
+Come on, Luna. Let's talk about this back in the Guild.
+
+But Luna shakes her head and releases the spell she'd been casting. Dark tendrils snake up from the tombstones' shadows and wrap themselves around Eilhart's legs and then the automaton's, holding them in place. Luna takes off running desperately.
+
+LUNA (V.O.)
+I have to get to Sola and Alice...!
+
+>FADE OUT
+
+EXT. SOLA'S HOUSE
+
+Luna is holding SOLA's hand while they both run into the woods nearby, little Alice holding on tightly as Sola carries her as well as she can.
+
+LUNA
+Quick! Through here! Oh Divines, they're here, we've got to get them off our trail!
+
+ALICE
+Mama, what's going on?
+
+SOLA
+Shhh! I'll explain later!
+
+Luna conjures up a shadow mist to try and shake their
+
+pursuers, but they can still hear them coming closer.
+
+LUNA
+Come on! We're almost there. We just need to get to the anchor point and it'll take us right to the portal!
+
+Luna takes Alice from Sola so they can run faster. Just as they start losing their pursuers, the sound of crackling and whistling air is the only warning before one of Victoria's fireballs comes hurtling their way.
+
+LUNA
+SOLA!!!
+
+![[Play a high pitched scream and explosion]]
+
+Luna stands there in shock, wide eyed and clutching Alice tight to her chest. Sola lies fallen on the ground, the smell of charred flesh overwhelming as smoke rises off her back.
+
+LUNA
+So...la.... No, this can't...
+
+ALICE
+Mama...?
+
+Luna falls to her knees.
+
+LUNA
+My twin. No. No. She's always been here. She can't be... No. No!!
+
+ALICE
+Mama!
+
+Alice tries to squirm out of her aunt's arms, reaching out for Sola. Luna wails and holds on tightly.
+
+The sudden sound of footsteps makes her head snap up just as her hands light up with an angry, purple glow.
+
+She stops when she recognizes Emil.
+
+LUNA
+E... Emil... Sola, she...
+
+LUNA
+She's alright... Right? She can't... She can't be...
+
+Emil takes one look at Sola and winces. He reaches for Luna instead, trying to help her up.
+
+EMIL
+There's nothing you can do. You have to go now!
+
+LUNA
+(crying)
+I can't leave her!!
+
+EMIL
+Luna!
+
+LUNA
+She's my twin! She's half of me!
+
+EMIL
+Just go!
+
+LUNA
+SOLA!
+
+Emil hugs Luna tightly, so much Alice has to whine and protest. He then shoves Luna back hard.
+
+EMIL
+You have to do this, Luna. For Sola's sake. She wouldn't want you to get caught. You can't let Alice get hurt!
+
+LUNA
+B-But... I...
+
+EMIL
+I'll point them the wrong way. Save her daughter! Go!
+
+>FADE OUT
+
+Luna safely escaped to the demon realm with her niece and settled where she could keep Dmitri company. But part of her was left behind that day: without Sola, she was never the same. And though she did her best to raise Alice as her sister would have wanted, she looked to the future with a singular, dark determination. For she vowed this to Dmitri the day she got back: once he and her niece had no longer need of her, she would go back, and she would avenge Nikolai and Sola. One day...
+
+![[Ending #2]]
