@@ -1,16 +1,22 @@
 label luna_office_letter:
+    scene luna_study with fade
+    show luna with dissolve
     "Luna is hard at work reviewing evidence."
+
 
     #TODO Play knocking sound
 
-    with flash
-    "Luna jumps in surprise and scramble to hide her papers."
+    # scene luna_study with flash
+    show luna with vpunch
+    "Luna jumps in surprise and scrambles to hide her papers."
+
 
     l "Come in."
 
     #TODO play paper rustle sound
 
     "A note is slid out from underneath her door. Luna frowns as she picks it up."
+    # show luna with vpunch
 
     l "An ad...?"
 
@@ -50,8 +56,14 @@ label meet_with_eilhart:
     l "(He...? Well, let's see who this secret admirer is...)"
 
     #TODO show Eilhart's workshop
+    scene eilhart_workshop with fade
+
+    show luna at left with dissolve
 
     "Eilhart is hunched over a table working on a doll, and straightens back up to look at Luna as she comes in. His apprentice, Serach, is studying quietly in a corner, half hidden among dolls in progress."
+
+    show eilhart at right with dissolve
+
 
     e "So you made it. I was starting to get worried."
 

@@ -5,6 +5,10 @@
 
 image black = "#000"
 
+image luna = "Luna.png"
+
+image luna flip = im.Flip("Luna.png", horizontal=True)
+
 # Declare characters used by this game.
 define l = Character('Luna', color="#aa48ce")
 define e = Character('Eilhart', color="#48ce7c")
@@ -15,6 +19,9 @@ define se = Character('Serach', color="#7f831f")
 define flash = Fade(0.1, 0.0, 0.5, color="#fff")
 define tintred = Fade(0.1, 0.2, 0.5, color="#f00")
 
+define right = Position(xpos = 0.75, xanchor = 0.5)
+define left = Position(xpos = 0.23, xanchor = 0.5)
+
 # The game starts here.
 label start:
     $ numEndings = 1
@@ -22,7 +29,7 @@ label start:
     $ toldEilhartAboutDmitri = False
     $ threatenedToBringDownCouncil = False
     $ heardEilhartStory = False
-    "Eilhart affinity is %(eilhartAffinity)d"
+    # "Eilhart affinity is %(eilhartAffinity)d"
     jump luna_office_letter
 
     return
