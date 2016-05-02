@@ -24,6 +24,9 @@ define v = Character('Victoria', color="#d6700c")
 define ca = Character('Caers', color="#a012a0")
 define r = Character('Readak', color="#bfb31a")
 define ve = Character('Vera', color="#b20916")
+define s = Character('Sola', color="#cec22b")
+define alc = Character('Alice', color="#e8f464")
+define em = Character('Emil', color="#6a9af7")
 
 
 define flash = Fade(0.1, 0.0, 0.5, color="#fff")
@@ -35,7 +38,7 @@ define left = Position(xpos = 0.23, xanchor = 0.5)
 
 # The game starts here.
 label start:
-    $ numEndings = 1
+    $ numEndings = 2
     $ eilhartAffinity = 0
     $ toldEilhartAboutDmitri = False
     $ threatenedToBringDownCouncil = False

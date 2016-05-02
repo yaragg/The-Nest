@@ -399,6 +399,9 @@ label serach_kills_luna:
 
     "Serach snaps her neck. Luna goes limp in his arms."
 
+    hide luna with easeoutbottom
+    # show luna at Position(ypos = 1, yanchor = 0) with MoveTransition(0.5)
+
     "Eilhart's shoulders slump. He suddenly looks so very old and tired."
 
     # scene black
@@ -412,8 +415,10 @@ label serach_kills_luna:
 
     e "Come, Serach. Let's hide her with the others..."
 
+    scene black with fade
+
     $ renpy.pause(0.5)
-    show text "Ending 1 / %d" % (numEndings) with dissolve
+    show text "Ending 1 of %d" % (numEndings) with dissolve
 
     $ renpy.pause()
 

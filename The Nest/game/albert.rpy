@@ -259,4 +259,107 @@ label graveyard:
     hide luna with moveoutleft
 
     l "(I have to get to Sola and Alice...!)"
+    jump sola_house
+    return
+
+label sola_house:
+    scene sola_house with fade
+    show luna at left with dissolve
+
+    "Luna is holding Sola's hand while they both run into the woods nearby, little Alice holding on tightly as Sola carries her as well as she can."
+
+    l "Quick! Through here! Oh Divines, they're here, we've got to get them off our trail!"
+
+    hide luna with moveoutright
+
+    scene woods with fade
+
+    show luna at left with moveinleft
+
+    alc "Mama, what's going on?"
+
+    s "Shhh! I'll explain later!"
+
+    with Fade(0.5, 0.1, 0.5, color="#393939")
+
+    "Luna conjures up a shadow mist to try and shake their pursuers, but they can still hear them coming closer."
+
+    l "Come on! We're almost there. We just need to get to the anchor point and it'll take us right to the portal!"
+
+    "Luna takes Alice from Sola so they can run faster. Just as they start losing their pursuers, the sound of crackling and whistling air is the only warning before one of Victoria's fireballs comes hurtling their way."
+
+    #TODO play a high pitched scream and explosion
+
+    with Fade(0.5, 0.1, 0.5, color="#f09400")
+    with hpunch
+    with tintred
+
+    l "SOLA!!!"
+
+    "Luna stands there in shock, wide eyed and clutching Alice tight to her chest. Sola lies fallen on the ground, the smell of charred flesh overwhelming as smoke rises off her back."
+
+    l "So...la.... No, this can't..."
+
+    alc "Mama...?"
+
+    "Luna falls to her knees."
+
+    l "My twin. No. No. She's always been here. She can't be... No. No!!"
+
+    alc "Mama!"
+
+    "Alice tries to squirm out of her aunt's arms, reaching out for Sola. Luna wails and holds on tightly."
+
+    #TODO play footsteps sound
+
+    "The sudden sound of footsteps makes her head snap up just as her hands light up with an angry, purple glow."
+
+    "She stops when she recognizes Emil."
+
+    l "E... Emil... Sola, she..."
+
+    l "She's alright... Right? She can't... She can't be..."
+
+    "Emil takes one look at Sola and winces. He reaches for Luna instead, trying to help her up."
+
+    em "There's nothing you can do. You have to go now!"
+
+    l "I can't leave her!!"
+
+    em "Luna!"
+
+    l "She's my twin! She's half of me!"
+
+    em "Just go!"
+
+    l "SOLA!"
+
+    "Emil hugs Luna tightly, so much Alice has to whine and protest. He then shoves Luna back hard."
+
+    show luna at Position(xpos = 0.16, xanchor = 0.5) with MoveTransition(0.15)
+
+    em "You have to do this, Luna. For Sola's sake. She wouldn't want you to get caught. You can't let Alice get hurt!"
+
+    l "B-But... I..."
+
+    em "I'll point them the wrong way. Save her daughter! Go!"
+
+    $ renpy.pause(0.5)
+    hide luna with moveoutleft
+
+    scene black with fade
+
+    "Luna safely escaped to the demon realm with her niece and settled where she could keep Dmitri company."
+
+    "But part of her was left behind that day: without Sola, she was never the same. And though she did her best to raise Alice as her sister would have wanted, she looked to the future with a singular, dark determination."
+
+    "For she vowed this to Dmitri the day she got back: once he and her niece had no longer need of her, she would go back, and she would avenge Nikolai and Sola. One day..."
+
+    $ renpy.pause(0.5)
+    show text "Ending 2 of %d" % (numEndings) with dissolve
+
+    $ renpy.pause()
+
+    hide text with dissolve
+
     return
