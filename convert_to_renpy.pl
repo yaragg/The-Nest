@@ -29,8 +29,9 @@ $text =~ s/SERACH *\n*(.+)/se "$1"/g;
 $text =~ s/READAK *\n*(.+)/r "$1"/g;
 $text =~ s/VICTORIA *\n*(.+)/v "$1"/g;
 $text =~ s/VERA *\n*(.+)/ve "$1"/g;
-$text =~ s/CAERS *\n*(.+)/c "$1"/g;
+$text =~ s/CAERS *\n*(.+)/ca "$1"/g;
 $text =~ s/ERIK *\n*(.+)/ek "$1"/g;
+$text =~ s/CROWE *\n*(.+)/c "$1"/g;
 
 #Output result
 print $text;
