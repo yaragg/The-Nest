@@ -100,3 +100,65 @@ label albert_study:
 
     jump council_albert_absent
     return
+
+
+label council_albert_absent:
+    scene council_room with fade
+    "The High Mages are gathered around the large, circular meeting table. Eilhart is leaning back on his chair with his feet propped up on it. Albert is conspicuously absent: everyone half expects him to start shouting at Eilhart, and the silence is unsettling."
+
+    show eilhart at right with dissolve
+
+    e "Where is that pompous redhead? He should've been here already. In all of my tenure, I've never seen him be late for council."
+
+    ca "Mmmhh. You, on the other hand, are always late."
+
+    e "And you oversleep more often than not, dearest Pot."
+
+    v "What a waste of time."
+
+    #TODO play knocking sound
+
+    "A knock interrupts them. Serach pokes his head in, looks around and shakes his head."
+
+    e "What is it, Serach?"
+
+    se "High Mage Lycioe's apprentice asked me to check if he was here... He was supposed to meet him before the council meeting to give him his tasks for the day, but he never showed himself."
+
+    l "(That's not like him...)"
+
+    se "His family has been asking about his whereabouts as well. I'll have to inform them that he's not here."
+
+    e "Feh. He's probably gone to meet some lover or something. No need to make such a fuss."
+
+    ca "He wouldn't. Not with the fiancée he has. He's been pestering me for weeks for a reading on when best to marry her..."
+
+    e "Then maybe he's looking for a ring or something equally expensive and yet worthless."
+
+    e "He's a big kid. The pride of the family. He can take care of himself."
+
+    v "I have my doubts."
+
+    show luna at left with dissolve
+
+    l "It is unusual that he would be so late."
+
+    r "Ah, give the boy a break. It would be good if he finally decided to loosen up. He's so stuffy I'm amazed his shirt collar hasn't strangled him yet."
+
+    l "(That's my Grandfather. But still...)"
+
+    e "Do we postpone the session or go on without Mr Truantyoe?"
+
+    l "(Please tell me you didn't make that pun.)"
+
+    l "Regardless of whether we continue or not... We should send out people to look for him."
+
+    v "I bet we'll discover he was asleep at his desk... or better yet, trying to find Eilhart to make sure he isn't late."
+
+    v "And it would be ironic because today you were almost on time."
+
+    e "Yeah, yeah. Blame the blonde, won't you. Alright, let's just send some mooks."
+
+    scene black with fade
+
+    "But as the day wore on and no word came of Albert Lycioe, the atmosphere grew heavy. Caers muttered of ill omens in the stars, warning him for days on end, Victoria was snappier than ever, and even Readak and Eilhart's jokes grew rare. Luna couldn't help this heavy feeling..."
+    return

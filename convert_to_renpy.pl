@@ -28,6 +28,7 @@ $text =~ s/ALICE *\n*(.+)/a "$1"/g;
 $text =~ s/SERACH *\n*(.+)/se "$1"/g;
 $text =~ s/READAK *\n*(.+)/r "$1"/g;
 $text =~ s/VICTORIA *\n*(.+)/v "$1"/g;
+$text =~ s/VANESSA *\n*(.+)/va "$1"/g;
 $text =~ s/VERA *\n*(.+)/ve "$1"/g;
 $text =~ s/CAERS *\n*(.+)/ca "$1"/g;
 $text =~ s/ERIK *\n*(.+)/ek "$1"/g;

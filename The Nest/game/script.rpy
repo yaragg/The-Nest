@@ -20,6 +20,10 @@ define u = Character('???', color="#2153b4")
 define nr = Character('Nikolai (recording)', color="#2153b4")
 define c = Character('Crowe (recording)', color="#979ba5")
 define a = Character('Albert', color="#b20916")
+define v = Character('Victoria', color="#d6700c")
+define ca = Character('Caers', color="#a012a0")
+define r = Character('Readak', color="#bfb31a")
+
 
 define flash = Fade(0.1, 0.0, 0.5, color="#fff")
 define tintred = Fade(0.1, 0.2, 0.5, color="#f00")

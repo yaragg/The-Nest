@@ -40,6 +40,9 @@ label luna_office_letter:
 
 
 label meet_with_eilhart:
+
+    scene eilhart_shop with fade
+    show luna at left with dissolve
     
     "Luna looks around the shop, impressed with the realism of the dolls displayed."
 
@@ -55,7 +58,8 @@ label meet_with_eilhart:
 
     l "(He...? Well, let's see who this secret admirer is...)"
 
-    #TODO show Eilhart's workshop
+    hide luna with dissolve
+
     scene eilhart_workshop with fade
 
     show luna at left with dissolve
