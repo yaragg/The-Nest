@@ -19,6 +19,7 @@ define n = Character('Nikolai', color="#2153b4")
 define u = Character('???', color="#2153b4")
 define nr = Character('Nikolai (recording)', color="#2153b4")
 define c = Character('Crowe (recording)', color="#979ba5")
+define a = Character('Albert', color="#b20916")
 
 define flash = Fade(0.1, 0.0, 0.5, color="#fff")
 define tintred = Fade(0.1, 0.2, 0.5, color="#f00")
