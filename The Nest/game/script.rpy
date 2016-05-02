@@ -23,6 +23,7 @@ define a = Character('Albert', color="#b20916")
 define v = Character('Victoria', color="#d6700c")
 define ca = Character('Caers', color="#a012a0")
 define r = Character('Readak', color="#bfb31a")
+define ve = Character('Vera', color="#b20916")
 
 
 define flash = Fade(0.1, 0.0, 0.5, color="#fff")

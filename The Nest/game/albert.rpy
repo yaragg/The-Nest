@@ -161,4 +161,102 @@ label council_albert_absent:
     scene black with fade
 
     "But as the day wore on and no word came of Albert Lycioe, the atmosphere grew heavy. Caers muttered of ill omens in the stars, warning him for days on end, Victoria was snappier than ever, and even Readak and Eilhart's jokes grew rare. Luna couldn't help this heavy feeling..."
+
+    jump graveyard
+    return
+
+
+label graveyard:
+    scene graveyard with fade
+    "The High Mages are standing in the graveyard of a small neighboring town. A green-faced Caers is emptying his breakfast on a nearby tree. The sound of metallic hooves signal Eilhart's approach as he rides one of his automatons."
+
+    show eilhart at right with dissolve
+
+    e "What happened here? I came as fast as I could."
+
+    ca "They f-found him..."
+
+    e "What do you mean, 'found' him?"
+
+    "Eilhart pushes past a crowd of many redheaded Lycioes to get to the hole they were all gathered around. Readak is holding Luna as she shakes uncontrollably."
+
+    e "...Oh."
+
+    e "Caers, any room left near your tree?"
+
+    "Albert's hair pales in face of the blood coating all over his robes. It has pooled under his chest, where countless stab wounds have torn fabric and flesh alike."
+
+    "Two black candles burn over each of his hands, and countless necromantic runes have been drawn all over his too-white skin."
+
+    show luna at left with dissolve
+
+    l "(Albert... Oh Divines. How...?)"
+
+    r "Luna, it's okay. There wasn't anything we could do."
+
+    l "(Wasn't there? What if I caused this somehow? What if...)"
+
+    l "(Oh no. The broken sphere. There's only one person he could get help from to fix the enchantment...)"
+
+    l "(Could it be... Eilhart...?)"
+
+    "Luna looks back at Eilhart warily. Too late, she realizes he isn't the one that is being watched with suspicion."
+
+    l "(No... Did the tail they set on me see me studying necromantic artifacts? They can't possibly think I did this...)"
+
+    e "News travel fast, don't they?"
+
+    "A redhaired woman whose features are strikingly similar to Albert's walks in, accompanied by some of her family."
+
+    e "Vera. I'm really sorry."
+
+    l "We all are... Please, let us know if you need--"
+
+    "But Vera brushes past them, too anguished to reply. She rushes to her brother's side, kneeling near the shallow grave in horror."
+
+    ve "Albert... No..."
+
+    "They all watch as the grieving Vera places her hand over Albert's eyes. Closing her own, her body shakes with silent sobs as magic builds around her hand."
+
+    with Fade(0.5, 0.1, 0.5, color="#852ffa")
+
+    l "(Right, she's a diviner... At least we'll know who did this.)"
+
+    v "What did you see?"
+
+    ve "I would speak of it privately."
+
+    "But the damage is already done. Grief-stricken, angry eyes sought their target faster than she could restrain herself."
+
+    "Luna feels her stomach twist."
+
+    l "W-What? Why are you looking at me like that?"
+
+    show luna at Position(xpos = 0.18, xanchor = 0.5) with MoveTransition(0.5)
+
+    l "I-I didn't--"
+
+    l "(Oh no...)"
+
+    v "Eilhart, won't you escort Luna back to headquarters?"
+
+    l "No!"
+
+    l "(This can't be happening! How... Are the Lycioes in on this? How could Vera be fooled? Why...?)"
+
+    l "(I can't... Oh Divines, any trial at this point is going to be even more of a farce than Nikolai's was.)"
+
+    "Eilhart motions to one of his automatons and it follows him closer to Luna as he approaches her."
+
+    show eilhart at Position(xpos = 0.70, xanchor = 0.5) with MoveTransition(0.5)
+
+    e "Come on, Luna. Let's talk about this back in the Guild."
+
+    "But Luna shakes her head and releases the spell she'd been casting. Dark tendrils snake up from the tombstones' shadows and wrap themselves around Eilhart's legs and then the automaton's, holding them in place. Luna takes off running desperately."
+
+    with Fade(0.3, 0.2, 0.5, color="#000")
+    $ renpy.pause(0.3)
+    hide luna with moveoutleft
+
+    l "(I have to get to Sola and Alice...!)"
     return
