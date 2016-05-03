@@ -44,6 +44,6 @@ label start:
     $ threatenedToBringDownCouncil = False
     $ heardEilhartStory = False
     # "Eilhart affinity is %(eilhartAffinity)d"
-    jump luna_office_letter
+    jump intro
 
     return

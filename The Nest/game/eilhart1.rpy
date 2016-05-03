@@ -1,7 +1,9 @@
 label luna_office_letter:
     scene luna_study with fade
     show luna with dissolve
-    "Luna is hard at work reviewing evidence."
+    "Luna is hard at work reviewing evidence. She's been doing little else for months now, but just like the nightmare eighteen years ago, every thread she chases seems to vanish without a hint as to who cut it."
+
+    "Hours spent scouring the black market for necromantic artifacts, looking up old neighbors who have long since moved away or make a point not to remember anything about \"that necromancer who used to live around here\"--all for nothing. She isn't any closer than she was when it all started."
 
 
     #TODO Play knocking sound
@@ -307,7 +309,7 @@ label eilhart_question:
     l "(Is this... A curse? A powerful one, too... What's going on here?)"
 
     if threatenedToBringDownCouncil and eilhartAffinity < 0:
-        "The door opens discreetly as Serach comes back and stands quietly inside."
+        "The door opens discreetly as Serach comes back and stands quietly inside. Eilhart notices him, but his gaze never leaves Luna."
 
         l "(There's something off here. Eilhart looks tense... I don't like it. Maybe I shouldn't linger here.)"
         menu:

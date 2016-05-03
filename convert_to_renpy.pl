@@ -33,6 +33,7 @@ $text =~ s/VERA *\n*(.+)/ve "$1"/g;
 $text =~ s/CAERS *\n*(.+)/ca "$1"/g;
 $text =~ s/ERIK *\n*(.+)/ek "$1"/g;
 $text =~ s/CROWE *\n*(.+)/c "$1"/g;
+$text =~ s/NARRATOR *\n*(.+)/"$1"/g;
 
 #Output result
 print $text;

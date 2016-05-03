@@ -254,7 +254,7 @@ label graveyard:
 
     "But Luna shakes her head and releases the spell she'd been casting. Dark tendrils snake up from the tombstones' shadows and wrap themselves around Eilhart's legs and then the automaton's, holding them in place. Luna takes off running desperately."
 
-    with Fade(0.3, 0.2, 0.5, color="#000")
+    with Fade(0.3, 0.2, 0.5, color="#393939")
     $ renpy.pause(0.3)
     hide luna with moveoutleft
 
