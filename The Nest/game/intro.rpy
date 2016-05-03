@@ -22,6 +22,7 @@ label intro:
 
 
 label council_exposition:
+    play music "sound/bgm/Sketchy Logic - Shop of the Arcane.mp3" fadeout 0.7 fadein 0.5
     scene council_room with fade
 
     a "Luna, Emil. Believe me when I say it's good to see you two."

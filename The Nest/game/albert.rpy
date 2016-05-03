@@ -1,4 +1,5 @@
 label albert_study:
+    play music "sound/bgm/Sketchy Logic - Shop of the Arcane.mp3" fadeout 0.7 fadein 0.5
     scene albert_study with fade
     show luna at left with dissolve
 
@@ -158,6 +159,7 @@ label council_albert_absent:
 
     e "Yeah, yeah. Blame the blonde, won't you. Alright, let's just send some mooks."
 
+    stop music fadeout 3.0
     scene black with fade
 
     "But as the day wore on and no word came of Albert Lycioe, the atmosphere grew heavy. Caers muttered of ill omens in the stars, warning him for days on end, Victoria was snappier than ever, and even Readak and Eilhart's jokes grew rare. Luna couldn't help this heavy feeling..."
@@ -168,6 +170,7 @@ label council_albert_absent:
 
 label graveyard:
     scene graveyard with fade
+    play music "sound/bgm/Darren Curtis - Hallow's Eve Ritual.ogg" fadeout 0.7 fadein 0.5
     "The High Mages are standing in the graveyard of a small neighboring town. A green-faced Caers is emptying his breakfast on a nearby tree. The sound of metallic hooves signal Eilhart's approach as he rides one of his automatons."
 
     show eilhart at right with dissolve
@@ -263,6 +266,7 @@ label graveyard:
     return
 
 label sola_house:
+    play music "sound/bgm/Darren Curtis - Unnerving Chase.ogg" fadeout 0.7 fadein 0.5
     scene sola_house with fade
     show luna at left with dissolve
 
@@ -293,10 +297,13 @@ label sola_house:
     with Fade(0.5, 0.1, 0.5, color="#f09400")
     with hpunch
     with tintred
+    stop music
 
     l "SOLA!!!"
 
     "Luna stands there in shock, wide eyed and clutching Alice tight to her chest. Sola lies fallen on the ground, the smell of charred flesh overwhelming as smoke rises off her back."
+
+    play music "sound/bgm/Alexandr Zhelanov - Deal with the Devil.mp3" fadeout 0.7 fadein 25.0
 
     l "So...la.... No, this can't..."
 

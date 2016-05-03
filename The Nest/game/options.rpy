@@ -26,6 +26,8 @@ init -1 python hide:
 
     config.automatic_images = ['\\', '/', '_']
 
+    config.main_menu_music = "sound/bgm/Alexandr Zhelanov - Histories and tales.mp3"
+
 
     #########################################
     # Themes

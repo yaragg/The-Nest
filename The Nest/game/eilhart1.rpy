@@ -1,4 +1,5 @@
 label luna_office_letter:
+    stop music fadeout 1.0
     scene luna_study with fade
     show luna with dissolve
     "Luna is hard at work reviewing evidence. She's been doing little else for months now, but just like the nightmare eighteen years ago, every thread she chases seems to vanish without a hint as to who cut it."
@@ -43,6 +44,7 @@ label luna_office_letter:
 
 label meet_with_eilhart:
 
+    play music "sound/bgm/Darren Curtis - Fireside Tales.ogg" fadeout 0.7 fadein 0.5
     scene eilhart_shop with fade
     show luna at left with dissolve
     
@@ -397,6 +399,7 @@ label serach_kills_luna:
     l "Serach? Divines. His apprentice is an aut--"
 
     with tintred
+    stop music
     $ renpy.pause(0.5)
 
     "Serach snaps her neck. Luna goes limp in his arms."

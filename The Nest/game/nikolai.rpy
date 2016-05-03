@@ -1,4 +1,5 @@
 label meet_nikolai:
+    stop music fadeout 0.7
     scene nikolai_house with fade
     $ renpy.pause(0.5)
 
@@ -19,6 +20,7 @@ label meet_nikolai:
 
     show nikolai_house_int with fade
     show luna at left with dissolve
+    play music "sound/bgm/Alexandr Zhelanov - Tragedy alley.mp3" fadeout 0.7 fadein 0.5
 
     "The furniture and everything it once held have been left to rot in the empty house. Its only inhabitants are insects and a pack of rats, and one stops and stands up on its hind legs, sniffing at Luna and peering at her with beady black eyes."
 
