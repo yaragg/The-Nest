@@ -15,6 +15,8 @@ Eilhart’s shop: [Fireside Tales](https://soundcloud.com/desperate-measurez/set
 
 Nikolai’s house: [Tragedy alley](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
+Albert’s office: [Aristocracy](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
 Graveyard: [Hallow's Eve Ritual](https://soundcloud.com/desperate-measurez/sets/rpg-royalty-free-music) by Darren Curtis, available under attribution
 
 Luna in the woods: [Unnerving Chase](https://soundcloud.com/desperate-measurez/sets/rpg-royalty-free-music) by Darren Curtis, available under attribution
@@ -52,6 +54,8 @@ All by Yara Grassi Gouffon
 [Woods](https://pixabay.com/en/forest-woods-trees-nature-970934/) available under CC0
 
 [Emil’s office](https://commons.wikimedia.org/wiki/File:JE_Study_Room.JPG) by Emily Suran available under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+[Spider web](https://commons.wikimedia.org/wiki/File:Web.jpg) by [Tom Burke](https://www.flickr.com/photos/nothing/) available under [CC-BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) / Title font: [Riesling](https://www.fontsquirrel.com/fonts/riesling) by Bright Ideas
 
   
 
