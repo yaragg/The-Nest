@@ -323,6 +323,8 @@ label sola_house:
 
     "She stops when she recognizes Emil."
 
+    show emil at right with dissolve
+
     l "E... Emil... Sola, she..."
 
     l "She's alright... Right? She can't... She can't be..."
@@ -341,9 +343,11 @@ label sola_house:
 
     l "SOLA!"
 
+    show emil at Position(xpos = 0.38, xanchor = 0.5) behind luna with MoveTransition(1.0)
+
     "Emil hugs Luna tightly, so much Alice has to whine and protest. He then shoves Luna back hard."
 
-    show luna at Position(xpos = 0.16, xanchor = 0.5) with MoveTransition(0.15)
+    show luna at Position(xpos = 0.08, xanchor = 0.5) with MoveTransition(0.15)
 
     em "You have to do this, Luna. For Sola's sake. She wouldn't want you to get caught. You can't let Alice get hurt!"
 
@@ -354,7 +358,7 @@ label sola_house:
     $ renpy.pause(0.5)
     hide luna with moveoutleft
 
-    scene black with fade
+    scene black with longfade
 
     "Luna safely escaped to the demon realm with her niece and settled where she could keep Dmitri company."
 

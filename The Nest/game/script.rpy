@@ -5,7 +5,7 @@
 
 image black = "#000"
 
-image luna = "Luna.png"
+# image luna = "Luna.png"
 
 image luna flip = im.Flip("Luna.png", horizontal=True)
 
@@ -32,6 +32,7 @@ define em = Character('Emil', color="#6a9af7")
 define flash = Fade(0.1, 0.0, 0.5, color="#fff")
 define tintred = Fade(0.1, 0.2, 0.5, color="#f00")
 define blueflash = Fade(0.1, 0.0, 0.5, color="#00f")
+define longfade = Fade(2.0, 0.0, 0.5, color="#000")
 
 define right = Position(xpos = 0.75, xanchor = 0.5)
 define left = Position(xpos = 0.23, xanchor = 0.5)

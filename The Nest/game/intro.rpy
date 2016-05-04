@@ -39,11 +39,14 @@ label council_exposition:
 
     "Add to that the two missing High Mages from that first failed expedition, and the Council has lost half of its members."
 
+    show emil at Position(xpos = 0.65, xanchor = 0.5) with dissolve
+
+    show luna flip at Position(xpos = 0.8, xanchor = 0.5) with dissolve
+
     "Luna and Emil exchange glances. They have already agreed on what to tell their peers before they crossed back into the human realm, but it doesn't make the weight any easier to bear."
 
     "There is too much to hide."
 
-    show luna at left with dissolve
 
     l "It's a dangerous realm, that's all I can say. Elrek just vanished, he warped away and we never heard from him again."
 
@@ -79,7 +82,7 @@ label council_exposition:
 
     e "Right. You've been gone for what, six years? That's one hell of a sabbatical."
 
-    "Emil clenches his fists and his tone is sharp as a blade."
+    "Emil clenches his left fist so hard the metal groans. His tone is sharp as a blade."
 
     em "I was in a cell for five years. Does that answer your question?"
 
@@ -106,6 +109,7 @@ label emil_office:
     "Luna breathes a sigh of relief."
 
     show luna at left with dissolve
+    show emil at right with dissolve
 
     l "I never want to do that again."
 
@@ -144,6 +148,8 @@ label emil_office:
     em "You just got back. Your sister got kicked out of the council because she had Lester's kid. Is it really worth risking it all for something that happened two decades ago?"
 
     "Emil pauses and his eyes soften as he looks back at Luna."
+
+    show emil at Position(xpos = 0.72, xanchor = 0.5) with MoveTransition(0.2)
 
     em "Please. I don't want to see you hurt..."
 
