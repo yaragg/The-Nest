@@ -1,6 +1,7 @@
 label albert_study:
-    play music "sound/bgm/Sketchy Logic - Shop of the Arcane.mp3" fadeout 0.7 fadein 0.5
+    play music "sound/bgm/Alexandr Zhelanov - Aristocracy.mp3" fadeout 0.7 fadein 0.5
     scene albert_study with fade
+    show albert at right with dissolve
     show luna at left with dissolve
 
     "Albert sits smugly at his overly ornate desk, toying with his latest creation. The delicate glass bird has so much detail no artisan could ever have crafted it."
@@ -104,8 +105,11 @@ label albert_study:
 
 
 label council_albert_absent:
+    play music "sound/bgm/Sketchy Logic - Shop of the Arcane.mp3" fadeout 1.2 fadein 0.5
     scene council_room with fade
-    "The High Mages are gathered around the large, circular meeting table. Eilhart is leaning back on his chair with his feet propped up on it. Albert is conspicuously absent: everyone half expects him to start shouting at Eilhart, and the silence is unsettling."
+    "The High Mages are gathered at the large, circular meeting chamber. Eilhart is leaning back on his chair with his feet propped up on his desk."
+
+    "Albert is conspicuously absent: everyone half expects him to start shouting at Eilhart, and the silence is unsettling."
 
     show eilhart at right with dissolve
 
@@ -364,7 +368,7 @@ label sola_house:
 
     "But part of her was left behind that day: without Sola, she was never the same. And though she did her best to raise Alice as her sister would have wanted, she looked to the future with a singular, dark determination."
 
-    "For she vowed this to Dmitri the day she got back: once he and her niece had no longer need of her, she would go back, and she would avenge Nikolai and Sola. One day..."
+    "For this she vowed to Dmitri the day she got back: once he and her niece had no longer need of her, she would go back, and she would avenge Nikolai and Sola. One day..."
 
     $ renpy.pause(0.5)
     show text "Ending 2 of %d" % (numEndings) with dissolve

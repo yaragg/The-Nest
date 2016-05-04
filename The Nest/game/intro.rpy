@@ -25,6 +25,8 @@ label council_exposition:
     play music "sound/bgm/Sketchy Logic - Shop of the Arcane.mp3" fadeout 0.7 fadein 0.5
     scene council_room with fade
 
+    show albert flip at left with dissolve
+
     a "Luna, Emil. Believe me when I say it's good to see you two."
 
     "Yet the apparent relief of meeting them after years of absence is overshadowed by a grim frown in High Mage Lycioe's face."

@@ -8,6 +8,7 @@ image black = "#000"
 # image luna = "Luna.png"
 
 image luna flip = im.Flip("Luna.png", horizontal=True)
+image albert flip = im.Flip("Albert.png", horizontal=True)
 
 # Declare characters used by this game.
 define l = Character('Luna', color="#aa48ce")
