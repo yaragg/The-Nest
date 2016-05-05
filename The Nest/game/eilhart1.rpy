@@ -396,7 +396,7 @@ label serach_kills_luna:
 
     e "Do it, Serach."
 
-    l "Serach? Divines. His apprentice is an aut--"
+    l "(Serach? Divines. His apprentice is an aut--)"
 
     with tintred
     stop music

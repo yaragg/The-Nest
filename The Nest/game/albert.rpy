@@ -113,7 +113,7 @@ label council_albert_absent:
 
     show eilhart at right with dissolve
 
-    e "Where is that pompous redhead? He should've been here already. In all of my tenure, I've never seen him be late for council."
+    e "Where is that fop? He should've been here already. In all of my tenure, I've never seen him be late for council."
 
     ca "Mmmhh. You, on the other hand, are always late."
 
@@ -227,7 +227,7 @@ label graveyard:
 
     with Fade(0.5, 0.1, 0.5, color="#852ffa")
 
-    l "(Right, she's a diviner... At least we'll know who did this.)"
+    l "(Right, she's a diviner... She can see his last moments. As cruel as it is to put her through this, at least we'll know who did this.)"
 
     v "What did you see?"
 
