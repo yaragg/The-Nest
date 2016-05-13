@@ -316,7 +316,7 @@ label eilhart_question:
         l "(There's something off here. Eilhart looks tense... I don't like it. Maybe I shouldn't linger here.)"
         menu:
             "\"I didn't know you had a son.\" (Stay.)":
-                jump serach_kills_luna
+                jump stay_after_threatening_eilhart
 
             "\"Uh... I'll be going.\" (Leave.)":
                 l "Uh... I'll be going. See you at work."
@@ -369,7 +369,7 @@ label eilhart_question:
     return
 
 
-label serach_kills_luna:
+label stay_after_threatening_eilhart:
     l "I wasn't aware you had a son... not that I've ever delved into your personal life. He seems rather... under the weather. I don't suppose there's a reason for that, is there?"
 
     e "(amused)\nMaybe, maybe not."
@@ -378,57 +378,79 @@ label serach_kills_luna:
 
     e "Honestly, you don't really expect me to tell you, do you? Right after you threatened to bring down the same Council I happen to be part of?"
 
-    l "(I have a really bad feeling--)"
+    e "I never meant for you to see him. There's a reason I tried so hard to hide my family... If you're as open about my family as you are about your intentions, they'll be in danger."
 
-    "There is movement behind Luna and something unseen traps her in a headlock."
+    e "I have too much to lose..."
 
-    l "Ahh! Get--off--"
+    l "(I have a really bad feeling about this...)"
 
-    "Luna lashes out with sharp shadow tendrils, but the strong arms around her neck keep choking her."
+    menu:
+        "\"I won't hurt your family.\"":
+            l "Eilhart, wait. I have no wish to hurt your family."
+            l "Are you afraid the others will use them as leverage? I'll keep your secret."
+            if toldEilhartAboutDmitri:
+                l "After all, I already told you mine."
+            l "And if things get messy with the Council, I'll do my best not to get your family involved."
+            l "I know what it's like to be worried about family. You said it yourself, Sola is in danger because of me..."
+            "Eilhart is quiet for a long, tense moment. Finally, he turns away."
+            e "Get out. Before I change my mind."
+            l "Eilhart--"
+            e "Now!"
+            "Luna leaves in a hurry, still confused."
+            hide luna with dissolve
+            jump meet_nikolai
 
-    l "(Impossible! How are they still standing?! How--)"
+        "Try to run for it.":
+            "Luna wordlessly turns and runs for the door, magic gathering around her hands. However, Serach moves faster and traps her in a headlock."
 
-    "Light glints off the arms choking her. Underneath torn skin, there is only metal..."
+            l "Ahh! Get--off--"
 
-    l "(An automaton?!)"
+            "Luna lashes out with sharp shadow tendrils, but the strong arms around her neck keep choking her."
 
-    l "Eilha--"
+            l "(Impossible! How is he still standing?! How--)"
 
-    e "Do it, Serach."
+            "Light glints off Serach's arms. Underneath torn skin, there is only metal..."
 
-    l "(Serach? Divines. His apprentice is an aut--)"
+            l "(An automaton?!)"
 
-    with tintred
-    stop music
-    $ renpy.pause(0.5)
+            l "Eilha--"
 
-    "Serach snaps her neck. Luna goes limp in his arms."
+            e "Do it, Serach."
 
-    hide luna with easeoutbottom
-    # show luna at Position(ypos = 1, yanchor = 0) with MoveTransition(0.5)
+            l "(Serach? Divines. His apprentice is an aut--)"
 
-    "Eilhart's shoulders slump. He suddenly looks so very old and tired."
+            with tintred
+            stop music
+            $ renpy.pause(0.5)
 
-    # scene black
-    # with Fade(0.1, 0.5, 0.5, color="#000")
+            "Serach snaps her neck. Luna goes limp in his arms."
 
-    e "I don't disagree with you, Luna. The Council is rotten. Bringing it down would be a favor to everyone..."
+            hide luna with easeoutbottom
+            # show luna at Position(ypos = 1, yanchor = 0) with MoveTransition(0.5)
 
-    e "But I can't let someone who doesn't know how to hide her cards leave knowing about my family."
+            "Eilhart's shoulders slump. He suddenly looks so very old and tired."
 
-    e "I'm so, so sorry."
+            # scene black
+            # with Fade(0.1, 0.5, 0.5, color="#000")
 
-    e "Come, Serach. Let's hide her with the others..."
+            e "I don't disagree with you, Luna. The Council is rotten. Bringing it down would be a favor to everyone..."
 
-    scene black with fade
+            e "But I can't let someone who doesn't know how to hide her cards leave knowing about my family."
 
-    $ renpy.pause(0.5)
-    show text "Ending 1 of %d" % (numEndings) with dissolve
+            e "I'm so, so sorry."
 
-    $ renpy.pause()
+            e "Come, Serach. Let's hide her with the others..."
 
-    hide text with dissolve
+            scene black with fade
 
+            $ renpy.pause(0.5)
+            show text "Ending 1 of %d" % (numEndings) with dissolve
+
+            $ renpy.pause()
+
+            hide text with dissolve
+
+            return
     return
 
 
