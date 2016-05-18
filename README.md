@@ -33,6 +33,30 @@ Eilhart’s flashback: [Come Out And Play](https://soundcloud.com/desperate-meas
 
 Endings #4 and 5: [Rooms](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
+####SFX
+
+[Wind](http://soundbible.com/1810-Wind.html) by Mark DiAngelo, available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Strong wind](http://soundbible.com/1062-Tornado.html) by Mike Koenig, available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Falling body](https://www.freesound.org/people/Adam_N/sounds/325270/) by [Adam_N](https://www.freesound.org/people/Adam_N/), available under CC0
+
+[Shadow magic](https://www.freesound.org/people/qubodup/sounds/219566/) by [qubodup](https://www.freesound.org/people/qubodup/), available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Wooshing fireball](https://www.freesound.org/people/Robinhood76/sounds/248116/) by [Robinhood76](https://www.freesound.org/people/Robinhood76/), available under [CC-BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
+
+[Explosion](https://www.freesound.org/people/tommccann/sounds/235968/) by [tommccann](https://www.freesound.org/people/tommccann/), available under CC0
+
+[Metal clash](http://soundbible.com/857-Swords-Clashing.html) by Mike Koenig, available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Knocking](https://www.freesound.org/people/BarkersPinhead/sounds/274814/) by [BarkersPinhead](https://www.freesound.org/people/BarkersPinhead/), available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Shatter](http://soundbible.com/105-Light-Bulb-Breaking.html) by Mike Koenig, available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Creak](https://www.freesound.org/people/f4kf4ce/sounds/261361/) by [f4kf4ce](https://www.freesound.org/people/f4kf4ce/), available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+[Stab](http://soundbible.com/511-Squish-1.html) by Mike Koenig, available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
 ###Graphics
 
 ####Character Art & Design

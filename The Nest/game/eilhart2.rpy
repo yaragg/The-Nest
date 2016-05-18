@@ -125,6 +125,7 @@ label emil_stays:
     # show emil flip behind luna
     show emil flip behind eilhart
     show eilhart at Position(xpos = 0.62, xanchor = 0.5) with MoveTransition(0.4) 
+    play sound "sound/sfx/clash.mp3"
     show luna behind emil with flash
 
     l "Ahh!"
@@ -133,7 +134,7 @@ label emil_stays:
     "A terrible metallic screech sounds as Emil pushes her out of the way. Mechanical arm raised, he blocks the strike and grimaces as the paper knife embeds itself in his arm."
 
     l "Emil! Are you--Eilhart, are you insane?!"
-
+    play sound "sound/sfx/shadow_magic.mp3"
     with Fade(0.3, 0.1, 0.5, color="#393939")
 
     "Luna's hands swirl with dark magic and she lashes out at Eilhart. He blocks it with a quick shield, which shatters and crumbles under her magic."
@@ -157,7 +158,7 @@ label emil_stays:
     "Emil grips the knife tightly, trembling..."
 
     "Then promptly turns and stabs Eilhart."
-
+    play sound "sound/sfx/stab.mp3"
     show emil flip at Position(xpos = 0.56, xanchor = 0.5) with MoveTransition(0.1)
     with tintred
 
@@ -165,12 +166,15 @@ label emil_stays:
 
     "Emil stabs him over and over, in a fury."
     show emil flip at Position(xpos = 0.48, xanchor = 0.5) with MoveTransition(0.1)
+    play sound "sound/sfx/stab.mp3"
     show emil flip at Position(xpos = 0.56, xanchor = 0.5) with MoveTransition(0.1)
     with tintred
     show emil flip at Position(xpos = 0.48, xanchor = 0.5) with MoveTransition(0.1)
+    play sound "sound/sfx/stab.mp3"
     show emil flip at Position(xpos = 0.56, xanchor = 0.5) with MoveTransition(0.1)
     with tintred
     show emil flip at Position(xpos = 0.48, xanchor = 0.5) with MoveTransition(0.1)
+    play sound "sound/sfx/stab.mp3"
     show emil flip at Position(xpos = 0.56, xanchor = 0.5) with MoveTransition(0.1)
     with tintred
 
@@ -179,7 +183,7 @@ label emil_stays:
 
     "But he doesn't. Luna tries to pull him off Eilhart, but by the time she manages to overpower him, it's too late."
 
-
+    play sound "sound/sfx/body_fall.mp3"
     hide eilhart with easeoutbottom
     show emil flip behind luna
 
@@ -452,11 +456,12 @@ label eilhart_trusts_luna:
     play music "sound/bgm/Darren Curtis - Come Out And Play.ogg" fadeout 0.7 fadein 0.5
     scene eilhart_study_past with fade
     show eilhart at right with dissolve
-
+    $ renpy.pause(0.5)
+    play sound "sound/sfx/knocking.mp3"
     "A knock interrupts Eilhart's work."
 
     e "Yeah? Come on in."
-
+    $ renpy.pause(0.5)
     show emil flip at left with dissolve
 
     "Emil walks in and closes and locks the door behind him."

@@ -82,7 +82,7 @@ label albert_study:
     a "Luna, give it back!"
 
     "Albert summons the sphere to himself with his magic."
-
+    play sound "sound/sfx/shatter.mp3"
     with flash
     "In a panic, Luna shatters it in midair."
 
@@ -264,6 +264,7 @@ label graveyard:
     e "Come on, Luna. Let's talk about this back in the Guild."
 
     "But Luna shakes her head and releases the spell she'd been casting. Dark tendrils snake up from the tombstones' shadows and wrap themselves around Eilhart's legs and then the automaton's, holding them in place. Luna takes off running desperately."
+    play sound "sound/sfx/shadow_magic.mp3"
 
     with Fade(0.3, 0.2, 0.5, color="#393939")
     $ renpy.pause(0.3)
@@ -291,7 +292,7 @@ label sola_house:
     alc "Mama, what's going on?"
 
     s "Shhh! I'll explain later!"
-
+    play sound "sound/sfx/shadow_magic.mp3"
     with Fade(0.5, 0.1, 0.5, color="#393939")
 
     "Luna conjures up a shadow mist to try and shake their pursuers, but they can still hear them coming closer."
@@ -301,8 +302,11 @@ label sola_house:
     "Luna takes Alice from Sola so they can run faster. Just as they start losing their pursuers, the sound of crackling and whistling air is the only warning before one of Victoria's fireballs comes hurtling their way."
 
     #TODO play a high pitched scream and explosion
-
+    play sound "sound/sfx/fireball_woosh.mp3"
     with Fade(0.5, 0.1, 0.5, color="#f09400")
+    play sound "sound/sfx/explosion.mp3"
+    with hpunch
+    with tintred
     with hpunch
     with tintred
     stop music

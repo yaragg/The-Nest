@@ -7,19 +7,17 @@ label luna_office_letter:
     "Hours spent scouring the black market for necromantic artifacts, looking up old neighbors who have long since moved away or make a point not to remember anything about \"that necromancer who used to live around here\"--all for nothing. She isn't any closer than she was when it all started."
 
 
-    #TODO Play knocking sound
-
-    # scene luna_study with flash
+    play sound "sound/sfx/knocking.mp3"
+    $ renpy.pause(1.5)
+    play sound "sound/sfx/body_fall.mp3"
     show luna with vpunch
     "Luna jumps in surprise and scrambles to hide her papers."
 
 
     l "Come in."
 
-    #TODO play paper rustle sound
 
     "A note is slid out from underneath her door. Luna frowns as she picks it up."
-    # show luna with vpunch
 
     l "An ad...?"
 
@@ -404,6 +402,8 @@ label stay_after_threatening_eilhart:
             "Luna wordlessly turns and runs for the door, magic gathering around her hands. However, Serach moves faster and traps her in a headlock."
 
             l "Ahh! Get--off--"
+            play sound "sound/sfx/shadow_magic.mp3"
+            with Fade(0.3, 0.2, 0.5, color="#393939")
 
             "Luna lashes out with sharp shadow tendrils, but the strong arms around her neck keep choking her."
 
@@ -424,7 +424,7 @@ label stay_after_threatening_eilhart:
             $ renpy.pause(0.5)
 
             "Serach snaps her neck. Luna goes limp in his arms."
-
+            play sound "sound/sfx/body_fall.mp3"
             hide luna with easeoutbottom
             # show luna at Position(ypos = 1, yanchor = 0) with MoveTransition(0.5)
 

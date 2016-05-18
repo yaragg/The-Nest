@@ -1,11 +1,12 @@
 label meet_nikolai:
     stop music fadeout 0.7
+    play sound "sound/sfx/wind_weak.mp3" loop
+
     scene nikolai_house with fade
     $ renpy.pause(0.5)
 
     show luna at left with moveinleft
 
-    #TODO play sound of wind howling
 
     $ renpy.pause(0.5)
 
@@ -30,15 +31,20 @@ label meet_nikolai:
 
     l "(Did you, too, wish you could stay in this house forever...?)"
 
+    play sound "sound/sfx/body_fall.mp3"
+    # $ renpy.pause(0.5)
+
     show luna at left with vpunch
+    play sound "sound/sfx/wind_weak.mp3" loop
 
     "Luna almost slips on the same patch of ice. She scowls, then confusion comes over her face."
 
     l "Wait... How did ice get here?"
+    play sound "sound/sfx/creak.mp3"
+    $ renpy.pause(1.7)
+    play sound "sound/sfx/wind_weak.mp3" loop
 
     "A loud creak from farther away makes Luna jump. She turns and sees boot marks on the dusty floor."
-
-    ##TODO play loud creaking sound
 
     "Luna's hair stands on end."
     l "(laughing nervously)\nOh dear. This is the stuff horror stories are made of."
@@ -59,8 +65,11 @@ label meet_nikolai:
     l "Wha--"
 
     #TODO play window shattering sound
+    play sound "sound/sfx/shatter.mp3"
 
     with blueflash
+    play sound "sound/sfx/wind_strong.mp3" loop
+
 
     "One of the windows shatters and the wind sends papers fluttering all across the room. An inkwell falls and shatters loudly."
 
@@ -89,6 +98,7 @@ label meet_nikolai:
 
     "The wind dies a little."
     #TODO make wind quieter
+    play sound "sound/sfx/wind_weak.mp3" loop
 
     u "You had years for that! Why only now?"
 
@@ -101,6 +111,8 @@ label meet_nikolai:
     l "I want to put this to rest once and for all. I want to know the truth. People need to know if the Guild condemned an innocent man."
 
     l "(And I'm almost certain that's the case...)"
+
+    stop sound
 
     "The wind stops, but the room is still freezing."
 
@@ -204,7 +216,7 @@ label crowe_discussion:
     l "It was all so meticulously planned... Almost none of the artifacts are out of place or traceable. It's very, very possible some of the relics were created by whoever planted the evidence."
 
     n "He what?!"
-
+    play sound "sound/sfx/shatter.mp3"
     with blueflash
 
     "Another window shatters, making Luna jump."
