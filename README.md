@@ -13,6 +13,8 @@ Council meetings: [Shop of the Arcane](http://opengameart.org/content/war-of-the
 
 Eilhart’s shop: [Fireside Tales](https://soundcloud.com/desperate-measurez/sets/rpg-royalty-free-music) by Darren Curtis, available under attribution
 
+[Eilhart’s study](https://www.flickr.com/photos/prayitnophotography/7031811287) by [PrayItno](https://www.flickr.com/photos/prayitnophotography/) available under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 Nikolai’s house: [Tragedy alley](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Albert’s office: [Aristocracy](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
@@ -22,6 +24,14 @@ Graveyard: [Hallow's Eve Ritual](https://soundcloud.com/desperate-measurez/sets/
 Luna in the woods: [Unnerving Chase](https://soundcloud.com/desperate-measurez/sets/rpg-royalty-free-music) by Darren Curtis, available under attribution
 
 A certain someone’s death: [Deal with the Devil](http://opengameart.org/content/deal-with-the-devil) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+Fight in Eilhart’s study: [Taste My Blade](http://opengameart.org/content/war-of-the-arcane-18-rpg-tracks) by [SketchyLogic](http://opengameart.org/users/sketchylogic) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+Ending #3: [Welcome to old manor](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+Eilhart’s flashback: [Come Out And Play](https://soundcloud.com/desperate-measurez/sets/rpg-royalty-free-music) by Darren Curtis, available under attribution
+
+Endings #4 and 5: [Rooms](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 ###Graphics
 

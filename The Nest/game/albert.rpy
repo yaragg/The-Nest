@@ -203,9 +203,13 @@ label graveyard:
 
     l "(Wasn't there? What if I caused this somehow? What if...)"
 
-    l "(Oh no. The broken sphere. There's only one person he could get help from to fix the enchantment...)"
+    if(eilhartKeptSphere):
+        l "Oh no. Eilhart kept the sphere and now Albert turns up dead. This can't be a coincidence."
+        l "Did he lie about the enchantment? Could Eilhart... do {i}this{/i}...?"
+    else:
+        l "(Oh no. The broken sphere. There's only one person he could get help from to fix the enchantment...)"
+        l "(Could it be... Eilhart...?)"
 
-    l "(Could it be... Eilhart...?)"
 
     "Luna looks back at Eilhart warily. Too late, she realizes he isn't the one that is being watched with suspicion."
 

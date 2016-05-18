@@ -393,7 +393,13 @@ label find_sphere:
                 jump albert_study
 
         "Ask Eilhart for help viewing the recording.":
-            "THIS PATH NOT IMPLEMENTED FOR NOW"
+            l "(Of course I'm not going to ask the man himself without anyone to back me up. That's just asking for trouble. And the last thing I want is to have the Lycioes on my back...)"
+            if(heardEilhartStory): 
+                l "(Besides, Eilhart is on my side. He can help me here... And I bet he'd be interested in knowing if the Lycioes are involved in any treachery.)"
+            elif (eilhartAffinity<0): 
+                l "(No matter how awkward things were when I left, it's still better than being face-to-face with that pompous fop.)"
 
+            l "Time to pay one Eliphas Eilhart a visit and hope he's not in the mood to be a smartass."
 
+            jump eilhart_study
     return

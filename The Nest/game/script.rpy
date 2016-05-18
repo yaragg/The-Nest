@@ -9,6 +9,7 @@ image black = "#000"
 
 image luna flip = im.Flip("Luna.png", horizontal=True)
 image albert flip = im.Flip("Albert.png", horizontal=True)
+image emil flip = im.Flip("Emil.png", horizontal=True)
 
 # Declare characters used by this game.
 define l = Character('Luna Dieinoche', color="#aa48ce")
@@ -40,11 +41,12 @@ define left = Position(xpos = 0.23, xanchor = 0.5)
 
 # The game starts here.
 label start:
-    $ numEndings = 2
+    $ numEndings = 5
     $ eilhartAffinity = 0
     $ toldEilhartAboutDmitri = False
     $ threatenedToBringDownCouncil = False
     $ heardEilhartStory = False
+    $ eilhartKeptSphere = False
     # "Eilhart affinity is %(eilhartAffinity)d"
     jump intro
 
