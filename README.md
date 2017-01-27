@@ -13,8 +13,6 @@ Council meetings: [Shop of the Arcane](http://opengameart.org/content/war-of-the
 
 Eilhart’s shop: [Fireside Tales](https://soundcloud.com/desperate-measurez/sets/rpg-royalty-free-music) by Darren Curtis, available under attribution
 
-[Eilhart’s study](https://www.flickr.com/photos/prayitnophotography/7031811287) by [PrayItno](https://www.flickr.com/photos/prayitnophotography/) available under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-
 Nikolai’s house: [Tragedy alley](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Albert’s office: [Aristocracy](http://opengameart.org/content/old-manor-more-music-inside) by [Alexandr Zhelanov](https://soundcloud.com/alexandr-zhelanov) available under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
@@ -78,6 +76,8 @@ All by Yara Grassi Gouffon
 [Eilhart’s workshop](https://pixabay.com/en/workshop-tools-equipment-wooden-984022/) available under CC0
 
 [Eilhart’s shop](https://www.flickr.com/photos/jedavillabali/5016336881) by [Bart Speelman](https://www.flickr.com/photos/jedavillabali/) available under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
+[Eilhart’s study](https://www.flickr.com/photos/prayitnophotography/7031811287) by [PrayItno](https://www.flickr.com/photos/prayitnophotography/) available under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 [Council room](https://commons.wikimedia.org/wiki/File:Sp%C3%B8rretimen_i_Stortinget_22._november_2007.jpg) by [Lars Røed Hansen](https://commons.wikimedia.org/wiki/User:R%C3%B8ed) available under [CC-BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
 
