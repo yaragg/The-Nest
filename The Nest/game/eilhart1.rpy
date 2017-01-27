@@ -235,7 +235,7 @@ label promise:
 
             e "But the evidence was pretty convincing."
 
-            l "You're the one who was just warning me that the Council wanted to get rid of me so badly they might frame my sister. You tell me if the evidence wasn't a little too convincing."
+            l "You're the one who was just warning me that the Council wanted to get rid of me so badly they might frame my sister. You tell me if the evidence wasn't a little {i}too{/i} convincing."
 
             e "Alright, I'll bite. Suppose you do find evidence that he was innocent..."
             jump eilhart_question

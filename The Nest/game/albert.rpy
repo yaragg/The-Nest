@@ -175,7 +175,7 @@ label council_albert_absent:
 label graveyard:
     scene graveyard with fade
     play music "sound/bgm/Darren Curtis - Hallow's Eve Ritual.ogg" fadeout 0.7 fadein 0.5
-    "The High Mages are standing in the graveyard of a small neighboring town. A green-faced Caers is emptying his breakfast on a nearby tree. The sound of metallic hooves signal Eilhart's approach as he rides one of his automatons."
+    "The High Mages are standing in the graveyard of a small neighboring town. A green-faced Caers is emptying his breakfast on a nearby tree. The sound of metallic hooves signals Eilhart's approach as he rides one of his automatons."
 
     show eilhart at right with dissolve
 

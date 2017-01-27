@@ -35,9 +35,11 @@ label council_exposition:
 
     a "What happened to the others...?"
 
-    "Out of six High Mages sent to explore the land beyond that mysterious, unexplained portal in the middle of the sea, only three returned--and that after six years of unexplained absence."
+    "They had been part of the second group, tasked with bringing back the missing members from the first expedition."
 
-    "None of the apprentices they set out to rescue made it back."
+    "Out of six High Mages in their group sent to explore the land beyond that mysterious, unexplained portal in the middle of the sea, only three returned--and that after six years of unexplained absence."
+
+    "None of the apprentices they had set out to rescue made it back."
 
     "Add to that the two missing High Mages from that first failed expedition, and the Council has lost half of its members."
 
@@ -45,7 +47,7 @@ label council_exposition:
 
     show luna flip at Position(xpos = 0.8, xanchor = 0.5) with dissolve
 
-    "Luna and Emil exchange glances. They have already agreed on what to tell their peers before they crossed back into the human realm, but it doesn't make the weight any easier to bear."
+    "Luna and Emil exchange glances. They had already agreed on what to tell their peers before they crossed back into the human realm, but it doesn't make the weight any easier to bear."
 
     "There is too much to hide."
 
